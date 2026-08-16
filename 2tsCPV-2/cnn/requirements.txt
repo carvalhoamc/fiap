@@ -1,0 +1,13 @@
+# Núcleo (já instalados no ambiente p_312)
+torch==2.5.1
+torchvision==0.20.1
+
+# Visualização de curvas e matriz de confusão
+matplotlib>=3.8
+numpy>=1.26
+pillow>=10.0
+
+# Etapa de deploy (instalar só quando chegar na aula 7)
+fastapi>=0.110
+uvicorn[standard]>=0.29
+python-multipart>=0.0.9

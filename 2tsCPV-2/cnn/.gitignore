@@ -1,0 +1,9 @@
+# Dados brutos e artefatos gerados não vão para o repositório:
+# eles são reproduzíveis a partir do código + config.py.
+data/
+outputs/
+
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
