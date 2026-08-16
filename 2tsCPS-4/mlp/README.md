@@ -662,6 +662,8 @@ python -m uvicorn deploy.api:app --port 8000     # 7B. servidor
 python deploy/testar_api.py --n 500              #     (em outro terminal)
 ```
 
+---
+
 ## 7. Erros comuns (guia de sobrevivência)
 
 | Sintoma | Causa provável | Correção |
