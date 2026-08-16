@@ -145,7 +145,7 @@ correto e implemente a mudança que faltar.
 
 ---
 
-## Nível 4 — Desafio final (Grupo de 2 Alunos)
+## Nível 4 — Desafio final (Grupo de 2 Alunos - Entrega dia 26/08/2026)
 
 Escolha **um** dos caminhos:
 

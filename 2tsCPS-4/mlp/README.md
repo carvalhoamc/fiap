@@ -662,21 +662,6 @@ python -m uvicorn deploy.api:app --port 8000     # 7B. servidor
 python deploy/testar_api.py --n 500              #     (em outro terminal)
 ```
 
-### Sugestão de cronograma (4 h)
-
-| Tempo | Conteúdo |
-|---|---|
-| 0:00–0:30 | Motivação, o problema, o neurônio artificial (§4.1) |
-| 0:30–1:00 | XOR ao vivo: `xor.py`, não-linearidade, aproximação universal (§4.2–4.4) |
-| 1:00–1:45 | Etapas 1 e 2: `data.py`, ausentes, one-hot, escala e **vazamento** — a parte mais longa de propósito |
-| 1:45–2:05 | Etapa 3: `model.py`, contagem de parâmetros, logit sem sigmoide |
-| 2:05–2:20 | *Intervalo* — deixe `train.py` rodando |
-| 2:20–3:00 | Etapas 4 e 5: laço de treino, desbalanceamento, `pos_weight`, leitura das curvas |
-| 3:00–3:35 | Etapa 6: acurácia x linha de base, precisão/revocação, limiar, importâncias |
-| 3:35–4:00 | Etapa 7: os três artefatos, API no navegador, discussão de viés e drift |
-
----
-
 ## 7. Erros comuns (guia de sobrevivência)
 
 | Sintoma | Causa provável | Correção |
