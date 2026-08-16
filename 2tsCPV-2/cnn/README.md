@@ -1,16 +1,14 @@
 # Aula — Redes Neurais Convolucionais na prática: do dado ao deploy
 
-**Disciplina:** Computação e Processamento Visual / Inteligência Artificial Aplicada
-**Público:** graduação, nível iniciante em aprendizado profundo
-**Carga horária sugerida:** 4 horas (ou 2 encontros de 2 h)
+**Disciplina:** ARTIFICIAL INTELLIGENCE e DEEP LEARNING APPLICADA
+**Professor:** Dr. Alexandre Miguel de Carvalho
 **Ferramentas:** Python 3.12 · PyTorch 2.5 (CPU) · torchvision · FastAPI
 
 ---
 
 ## 1. Por que esta aula existe
 
-A maioria dos tutoriais de CNN termina quando a acurácia aparece na tela. Só que
-um modelo que existe apenas dentro de um notebook não resolve problema nenhum.
+A maioria dos tutoriais de CNN termina quando a acurácia aparece na tela. Só que um modelo que existe apenas dentro de um notebook não resolve problema nenhum.
 O que separa um exercício de um sistema é o **pipeline completo**:
 
 ```mermaid
