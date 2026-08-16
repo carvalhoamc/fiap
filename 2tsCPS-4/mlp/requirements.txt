@@ -1,0 +1,12 @@
+# Nucleo (ja instalados no ambiente p_312)
+torch==2.5.1
+pandas>=2.2
+numpy>=1.26
+
+# Graficos: curvas de treino, matriz de confusao, ROC e importancias
+matplotlib>=3.8
+
+# Etapa de deploy (instalar so quando chegar na etapa 7)
+fastapi>=0.110
+uvicorn[standard]>=0.29
+pydantic>=2.6
