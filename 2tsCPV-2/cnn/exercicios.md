@@ -11,7 +11,7 @@ diz qual das três funcionou.
 
 ---
 
-## Nível 1 — Compreensão (individual, ~30 min)
+## Nível 1 — Compreensão
 
 **1.1 Fórmula do tamanho.** Sem rodar o código, calcule o formato do tensor após
 cada operação, para uma entrada `(1, 1, 28, 28)`:
@@ -42,7 +42,7 @@ você aplicar softmax duas vezes?
 
 ---
 
-## Nível 2 — Experimentação controlada (dupla, ~1 h)
+## Nível 2 — Experimentação controlada
 
 Preencha a tabela para cada item, sempre reexecutando `train.py` e `evaluate.py`:
 
@@ -76,7 +76,7 @@ regularizador do dropout?
 
 ---
 
-## Nível 3 — Implementação (dupla, ~1 h 30)
+## Nível 3 — Implementação
 
 **3.1 Baseline honesto.** Implemente em `model.py` uma classe `MLPSimples`
 (achatar 784 → densa 128 → ReLU → densa 10), treine nas mesmas condições e
@@ -103,7 +103,7 @@ domínio e o domínio do Fashion-MNIST diz sobre generalização?
 
 ---
 
-## Nível 4 — Desafio final (grupo de até 3, avaliado)
+## Nível 4 — Desafio final (Grupo de 2 Alunos - Entrega dia 24/08/2026)
 
 Escolha **um** dos caminhos:
 
