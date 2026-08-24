@@ -1,0 +1,21 @@
+# Ambiente desta aula: conda activate caret  (Python 3.10)
+#
+# ATENCAO AS VERSOES. O artefato de producao e um .pkl serializado com pickle:
+# ele so carrega com as MESMAS classes que o gravaram. Trocar a versao do
+# pycaret ou do scikit-learn e a fonte nº 1 de "funcionava na minha maquina".
+# O export_model.py grava as versoes usadas dentro de metadados.json — confira
+# la antes de reconstruir o ambiente.
+
+# Nucleo: o pycaret ja arrasta pandas, numpy, scikit-learn, matplotlib,
+# plotly, scipy e joblib nas versoes que ele suporta.
+pycaret==3.3.2
+
+# Modelos de boosting comparados pelo compare_models.
+lightgbm==4.5.0
+xgboost==2.1.3
+catboost==1.2.7
+
+# Etapa de deploy (instalar so quando chegar na etapa 7)
+fastapi>=0.115
+uvicorn[standard]>=0.34
+pydantic>=2.10
