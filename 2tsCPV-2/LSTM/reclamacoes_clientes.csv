@@ -1,0 +1,1001 @@
+﻿texto,sentimento,label
+"Entrega dentro do esperado, produto chegou em bom estado de conservação",Neutro,1
+Produto com manual somente em inglês e chamado aberto sem nenhuma atualização,Negativo,0
+"Serviço de entrega médio, produto chegou sem danos mas sem agilidade",Neutro,1
+"Produto chegou sem lacre de segurança, não recomendo essa loja para ninguém",Negativo,0
+Produto com problemas de conectividade e suporte prometeu retorno e sumiu,Negativo,0
+"Produto com ferrugem nas peças metálicas, empresa que não respeita o cliente",Negativo,0
+"Experiência de compra comum, nem muito boa nem muito ruim",Neutro,1
+"Entrega antecipada e produto impecável, embalagem perfeita e reforçada",Positivo,2
+Produto sem certificação obrigatória e devolução negada sem justificativa,Negativo,0
+Empresa de confiança que recomendo para qualquer pessoa sem hesitar,Positivo,2
+"Frete expresso cobrado mas entrega atrasou, nunca mais compro nessa empresa",Negativo,0
+Produto quebrou na primeira semana e atendimento horrível e sem resolução,Negativo,0
+Produto enviado sem embalagem adequada e robô de atendimento não resolve nada,Negativo,0
+"Produto com cheiro estranho ao abrir, descaso total com o consumidor",Negativo,0
+"Suporte resolveu meu problema em menos de 5 minutos, serviço impecável",Positivo,2
+Empresa confiável e transparente em todas as etapas do processo,Positivo,2
+Produto muito barulhento em operação e nunca consegui falar com um atendente,Negativo,0
+Produto com sistema desatualizado sem suporte e chamado aberto sem nenhuma atualização,Negativo,0
+"Produto frágil que quebrou no desempacotamento, experiência terrível do início ao fim",Negativo,0
+Fui cobrado mas o produto nunca chegou e reclamação ignorada no Reclame Aqui,Negativo,0
+"Produto com peças faltando na embalagem, nunca mais compro nessa empresa",Negativo,0
+"Estou muito satisfeito com a compra, recomendo essa loja a todos",Positivo,2
+"Entrega antecipada e produto impecável, embalagem perfeita e reforçada",Positivo,2
+"Produto recusado na entrega por estar danificado, descaso total com o consumidor",Negativo,0
+Produto entregue no endereço errado e chamado aberto sem nenhuma atualização,Negativo,0
+"Qualidade aceitável para o preço pago, atende ao básico necessário",Neutro,1
+Produto veio sem os acessórios prometidos e fiquei mais de uma hora esperando no telefone,Negativo,0
+Produto veio sem os acessórios prometidos e garantia não foi honrada dentro do prazo,Negativo,0
+"Empresa muito séria, atendimento humanizado e genuinamente eficiente",Positivo,2
+Suporte proativo me avisou do status do pedido sem eu precisar perguntar,Positivo,2
+"Produto ok, manual poderia ser mais detalhado e fácil de entender",Neutro,1
+Produto completamente diferente do site e empresa ignora histórico de contatos anteriores,Negativo,0
+"Entrega dentro do esperado, produto chegou em bom estado de conservação",Neutro,1
+Empresa séria e comprometida que cumpre rigorosamente o prometido,Positivo,2
+"Serviço de pós-venda excelente, empresa se preocupa com a satisfação",Positivo,2
+"Produto com problemas de conectividade, nunca mais compro nessa empresa",Negativo,0
+"Compra fácil no site, entrega rápida e produto de altíssima qualidade",Positivo,2
+"Atendimento ok, não foi excepcional mas resolveu o que era necessário",Neutro,1
+"Produto com peças faltando na embalagem, tive que acionar o Procon",Negativo,0
+"Atendimento rápido, eficiente e resolutivo em menos de dez minutos",Positivo,2
+"Produto chegou completamente danificado, empresa que não respeita o cliente",Negativo,0
+Produto com cheiro estranho ao abrir e chamado aberto sem nenhuma atualização,Negativo,0
+"Embalagem violada no momento da entrega, péssima experiência de compra",Negativo,0
+Produto com problemas de conectividade e empresa ignora histórico de contatos anteriores,Negativo,0
+"Estou muito satisfeito com a compra, recomendo essa loja a todos",Positivo,2
+"Experiência fantástica de ponta a ponta, voltarei a comprar sempre",Positivo,2
+"Recomendo fortemente essa empresa, confiável e produto de excelência",Positivo,2
+Produto com dimensões diferentes do especificado e atendimento terceirizado desinformado,Negativo,0
+"Produto muito barulhento em operação, experiência terrível do início ao fim",Negativo,0
+Produto superou expectativas em durabilidade e acabamento final,Positivo,2
+"Melhor compra que realizei esse ano, produto simplesmente fantástico",Positivo,2
+"Entregador tentou uma vez e não avisou, tive que acionar o Procon",Negativo,0
+"Produto extraviado e empresa não resolve, fui completamente enganado",Negativo,0
+"Produto sem certificação obrigatória, propaganda enganosa",Negativo,0
+Suporte por email demorou mas finalmente resolveu o que foi solicitado,Neutro,1
+"Compra fácil, rápida e segura com excelente experiência do usuário",Positivo,2
+"Cobrado duas vezes sem estorno, tive que acionar o Procon",Negativo,0
+"Site funcionou bem, pagamento processado sem dificuldades no checkout",Neutro,1
+"Empresa incrível, produto entregue muito antes do prazo previsto",Positivo,2
+"Atendimento dentro do padrão normal, sem nada de especial a destacar",Neutro,1
+"Cancelamento não processado continuei sendo cobrado, nunca mais compro nessa empresa",Negativo,0
+"Melhor compra que realizei esse ano, produto simplesmente fantástico",Positivo,2
+"Recomendo fortemente essa empresa, confiável e produto de excelência",Positivo,2
+"Fui cobrado mas o produto nunca chegou, fui completamente enganado",Negativo,0
+"Entrega sem problemas, embalagem básica mas suficiente para proteger",Neutro,1
+"Site com informações básicas, poderia ter mais detalhes técnicos",Neutro,1
+"O produto funciona, mas as instruções de uso poderiam ser mais claras",Neutro,1
+"Produto simples que cumpre o que promete, sem grandes diferenciais",Neutro,1
+Produto com sistema desatualizado sem suporte e reclamação ignorada no Reclame Aqui,Negativo,0
+"Empresa demora semanas para estornar pagamento, tive que acionar o Procon",Negativo,0
+Produto de altíssima qualidade com embalagem premium muito cuidadosa,Positivo,2
+"Produto com peças faltando na embalagem, nunca mais compro nessa empresa",Negativo,0
+"Site com informações básicas, poderia ter mais detalhes técnicos",Neutro,1
+Produto com peças faltando na embalagem e email sem resposta há mais de uma semana,Negativo,0
+"Atendimento normal, questão resolvida no prazo informado pelo suporte",Neutro,1
+Compra realizada com total segurança e transparência no processo,Positivo,2
+Produto com qualidade razoável que atende à necessidade básica,Neutro,1
+"Empresa demora semanas para estornar pagamento, não recomendo essa loja para ninguém",Negativo,0
+"Qualidade aceitável para o preço pago, atende ao básico necessário",Neutro,1
+Produto de altíssima qualidade com embalagem premium muito cuidadosa,Positivo,2
+"Entrega dentro do esperado, produto chegou em bom estado de conservação",Neutro,1
+Produto não funciona conforme anunciado e empresa ignora histórico de contatos anteriores,Negativo,0
+"Entrega dentro do esperado, produto chegou em bom estado de conservação",Neutro,1
+"Produto com sistema desatualizado sem suporte, nunca mais compro nessa empresa",Negativo,0
+"Atendimento rápido, eficiente e resolutivo em menos de dez minutos",Positivo,2
+"Compra online padrão, igual a qualquer outra experiência do mercado",Neutro,1
+"Estou muito satisfeito com a compra, recomendo essa loja a todos",Positivo,2
+"Produto e serviço impecáveis, superando em muito as expectativas",Positivo,2
+Produto com dimensões diferentes do especificado e atendente foi grosseiro e desrespeitoso,Negativo,0
+"Atendimento ok, não foi excepcional mas resolveu o que era necessário",Neutro,1
+Melhor custo-benefício que encontrei no mercado após muita pesquisa,Positivo,2
+"Prazo completamente descumprido sem aviso, descaso total com o consumidor",Negativo,0
+"Entregador tentou uma vez e não avisou, propaganda enganosa",Negativo,0
+"Empresa muito séria, atendimento humanizado e genuinamente eficiente",Positivo,2
+"Pedido processado normalmente, produto dentro das especificações básicas",Neutro,1
+"Entrega no intervalo prometido, produto em conformidade com o pedido",Neutro,1
+Produto chegou sem lacre de segurança e assistência técnica sem peças de reposição,Negativo,0
+"Atendimento dentro do padrão normal, sem nada de especial a destacar",Neutro,1
+"Produto veio sem os acessórios prometidos, experiência terrível do início ao fim",Negativo,0
+"Produto extraviado e empresa não resolve, empresa que não respeita o cliente",Negativo,0
+"Produto conforme descrito, entrega no prazo estipulado pelo vendedor",Neutro,1
+"Produto chegou em embalagem reforçada, sem nenhum dano no transporte",Positivo,2
+"Produto sensacional e entrega super eficiente, parabéns à empresa",Positivo,2
+"Atendimento razoável, resolveu meu problema mas demorou mais que esperado",Neutro,1
+"Produto chegou em embalagem reforçada, sem nenhum dano no transporte",Positivo,2
+"Voltarei a comprar com certeza, experiência simplesmente perfeita",Positivo,2
+"Compra realizada com segurança, produto perfeito e entrega exemplar",Positivo,2
+"Compra realizada com segurança, produto perfeito e entrega exemplar",Positivo,2
+"Produto com peças faltando na embalagem, empresa que não respeita o cliente",Negativo,0
+Produto com problemas de conectividade e robô de atendimento não resolve nada,Negativo,0
+"Produto robusto e de excelente qualidade, valeu cada centavo investido",Positivo,2
+"Compra realizada com segurança, produto perfeito e entrega exemplar",Positivo,2
+Empresa demora semanas para estornar pagamento e empresa ignora histórico de contatos anteriores,Negativo,0
+"Atendimento rápido, eficiente e resolutivo em menos de dez minutos",Positivo,2
+"Primeira compra na loja, experiência dentro do esperado sem surpresas",Neutro,1
+"Produto chegou completamente danificado, propaganda enganosa",Negativo,0
+Empresa demora semanas para estornar pagamento e devolução negada sem justificativa,Negativo,0
+"Produto não funciona conforme anunciado, fui completamente enganado",Negativo,0
+"Atendimento respondeu em tempo hábil, solução parcialmente satisfatória",Neutro,1
+Suporte proativo me avisou do status do pedido sem eu precisar perguntar,Positivo,2
+"Compra online padrão, igual a qualquer outra experiência do mercado",Neutro,1
+Produto com qualidade muito inferior ao anunciado e email sem resposta há mais de uma semana,Negativo,0
+Empresa que valoriza genuinamente o cliente acima de tudo,Positivo,2
+"Produto simples que cumpre o que promete, sem grandes diferenciais",Neutro,1
+"Compra tranquila, sem maiores problemas ou surpresas durante o processo",Neutro,1
+Produto conforme descrito com qualidade bem superior ao esperado,Positivo,2
+"Estou muito satisfeito com a compra, recomendo essa loja a todos",Positivo,2
+"Produto frágil que quebrou no desempacotamento, empresa que não respeita o cliente",Negativo,0
+"Produto chegou completamente danificado, tive que acionar o Procon",Negativo,0
+Frete um pouco acima da média do mercado mas a entrega foi pontual,Neutro,1
+"Atendimento dentro do padrão normal, sem nada de especial a destacar",Neutro,1
+"Compra fácil, rápida e segura com excelente experiência do usuário",Positivo,2
+Produto com sistema desatualizado sem suporte e chamado aberto sem nenhuma atualização,Negativo,0
+"Equipe de vendas bem treinada, atenciosa e extremamente prestativa",Positivo,2
+Produto veio sem os acessórios prometidos e atendimento horrível e sem resolução,Negativo,0
+"Produto adequado para uso ocasional, qualidade compatível com o preço",Neutro,1
+Suporte respondeu em prazo aceitável e resolveu parcialmente o problema,Neutro,1
+Produto sem certificação obrigatória e empresa ignora histórico de contatos anteriores,Negativo,0
+"Produto adequado para uso ocasional, qualidade compatível com o preço",Neutro,1
+Produto com data de validade vencida e reclamação ignorada no Reclame Aqui,Negativo,0
+"Produto com ferrugem nas peças metálicas, total desperdício de dinheiro",Negativo,0
+"Compra realizada sem grandes problemas, produto conforme o anunciado",Neutro,1
+Produto completamente diferente do site e email sem resposta há mais de uma semana,Negativo,0
+Produto não funciona conforme anunciado e fiquei mais de uma hora esperando no telefone,Negativo,0
+Atendimento cordial mas sem grande capacidade de resolver problemas,Neutro,1
+Produto conforme descrito com qualidade bem superior ao esperado,Positivo,2
+Produto com peças faltando na embalagem e nunca consegui falar com um atendente,Negativo,0
+"Produto frágil que quebrou no desempacotamento, péssima experiência de compra",Negativo,0
+Produto completamente diferente do site e suporte prometeu retorno e sumiu,Negativo,0
+"Entrega antecipada e produto impecável, embalagem perfeita e reforçada",Positivo,2
+Produto frágil que quebrou no desempacotamento e nunca consegui falar com um atendente,Negativo,0
+"Produto adequado para o uso básico diário, sem reclamações específicas",Neutro,1
+"Produto adequado para uso ocasional, qualidade compatível com o preço",Neutro,1
+Produto de altíssima qualidade com embalagem premium muito cuidadosa,Positivo,2
+"Produto com peças faltando na embalagem, tive que acionar o Procon",Negativo,0
+Produto muito barulhento em operação e chamado aberto sem nenhuma atualização,Negativo,0
+"Produto frágil que quebrou no desempacotamento, nunca mais compro nessa empresa",Negativo,0
+"Produto muito barulhento em operação, total desperdício de dinheiro",Negativo,0
+Experiência de compra muito positiva e tranquila do início ao fim,Positivo,2
+"Atendimento ok, não foi excepcional mas resolveu o que era necessário",Neutro,1
+"Entrega dentro do esperado, produto chegou em bom estado de conservação",Neutro,1
+"Atendimento respondeu em tempo hábil, solução parcialmente satisfatória",Neutro,1
+Produto com sistema desatualizado sem suporte e robô de atendimento não resolve nada,Negativo,0
+"Cancelamento não processado continuei sendo cobrado, nunca mais compro nessa empresa",Negativo,0
+Produto com sistema desatualizado sem suporte e devolução negada sem justificativa,Negativo,0
+Suporte por email demorou mas finalmente resolveu o que foi solicitado,Neutro,1
+Produto superou expectativas em durabilidade e acabamento final,Positivo,2
+Produto conforme descrito com qualidade bem superior ao esperado,Positivo,2
+"Produto veio com defeito de fábrica, descaso total com o consumidor",Negativo,0
+"Produto ok, manual poderia ser mais detalhado e fácil de entender",Neutro,1
+"Qualidade aceitável para o preço pago, atende ao básico necessário",Neutro,1
+Rastreamento preciso e entregador muito educado e pontual na entrega,Positivo,2
+"Serviço de pós-venda excelente, empresa se preocupa com a satisfação",Positivo,2
+Rastreamento preciso e entregador muito educado e pontual na entrega,Positivo,2
+Produto razoável com custo-benefício aceitável para a categoria,Neutro,1
+Produto com manual somente em inglês e devolução negada sem justificativa,Negativo,0
+"Experiência sem nada de extraordinário, expectativas foram atendidas",Neutro,1
+"Fui cobrado mas o produto nunca chegou, descaso total com o consumidor",Negativo,0
+"Produto com cheiro estranho ao abrir, nunca mais compro nessa empresa",Negativo,0
+Produto razoável com custo-benefício aceitável para a categoria,Neutro,1
+Produto não funciona conforme anunciado e chamado aberto sem nenhuma atualização,Negativo,0
+"Produto frágil que quebrou no desempacotamento, tive que acionar o Procon",Negativo,0
+"Produto com peças faltando na embalagem, nunca mais compro nessa empresa",Negativo,0
+"Recomendo fortemente essa empresa, confiável e produto de excelência",Positivo,2
+"Produto frágil que quebrou no desempacotamento, propaganda enganosa",Negativo,0
+"Entrega no prazo, produto perfeito e atendimento nota dez",Positivo,2
+"Superou tudo que eu esperava, produto de qualidade excepcional",Positivo,2
+Produto chegou antes do prazo e superou as expectativas em acabamento,Positivo,2
+"Primeira compra na loja, experiência dentro do esperado sem surpresas",Neutro,1
+"Atendimento exemplar, empresa verdadeiramente preocupada com o cliente",Positivo,2
+"Produto mediano, esperava um pouco mais pelo preço que foi cobrado",Neutro,1
+"Voltarei a comprar com certeza, experiência simplesmente perfeita",Positivo,2
+Produto de qualidade excepcional que vale muito mais do que o preço,Positivo,2
+Frete um pouco acima da média do mercado mas a entrega foi pontual,Neutro,1
+Produto chegou sem lacre de segurança e assistência técnica sem peças de reposição,Negativo,0
+Produto com componentes falsificados e nunca consegui falar com um atendente,Negativo,0
+"Estou muito satisfeito com a compra, recomendo essa loja a todos",Positivo,2
+"Experiência fantástica de ponta a ponta, voltarei a comprar sempre",Positivo,2
+"Embalagem violada no momento da entrega, não recomendo essa loja para ninguém",Negativo,0
+"Produto adequado para uso ocasional, qualidade compatível com o preço",Neutro,1
+Produto superou expectativas em durabilidade e acabamento final,Positivo,2
+"Troca realizada sem dificuldades, processo padrão de qualquer loja",Neutro,1
+"Qualidade aceitável para o preço pago, atende ao básico necessário",Neutro,1
+Produto chegou sem lacre de segurança e atendimento terceirizado desinformado,Negativo,0
+"Entrega antecipada e produto impecável, embalagem perfeita e reforçada",Positivo,2
+Resposta do suporte demorou dois dias mas finalmente resolveu a questão,Neutro,1
+Frete expresso cobrado mas entrega atrasou e assistência técnica sem peças de reposição,Negativo,0
+"Produto médio, adequado para presente informal e despretensioso",Neutro,1
+Melhor custo-benefício que encontrei no mercado após muita pesquisa,Positivo,2
+"Produto funcional sem extras ou bônus adicionais, faz o básico",Neutro,1
+"Produto sem certificação obrigatória, não recomendo essa loja para ninguém",Negativo,0
+"Produto veio sem os acessórios prometidos, experiência terrível do início ao fim",Negativo,0
+Empresa que respeita o cliente e cumpre rigorosamente o prometido,Positivo,2
+Produto com problemas de conectividade e assistência técnica sem peças de reposição,Negativo,0
+"Produto chegou sem lacre de segurança, total desperdício de dinheiro",Negativo,0
+"Produto extraviado e empresa não resolve, tive que acionar o Procon",Negativo,0
+Empresa que valoriza genuinamente o cliente acima de tudo,Positivo,2
+Empresa que valoriza genuinamente o cliente acima de tudo,Positivo,2
+"Produto médio, adequado para presente informal e despretensioso",Neutro,1
+"Frete expresso cobrado mas entrega atrasou, empresa que não respeita o cliente",Negativo,0
+Frete um pouco acima da média do mercado mas a entrega foi pontual,Neutro,1
+Produto com problemas de conectividade e fiquei mais de uma hora esperando no telefone,Negativo,0
+"Experiência de compra comum, nem muito boa nem muito ruim",Neutro,1
+"Produto frágil que quebrou no desempacotamento, experiência terrível do início ao fim",Negativo,0
+"Atendimento razoável, resolveu meu problema mas demorou mais que esperado",Neutro,1
+Produto com ferrugem nas peças metálicas e empresa ignora histórico de contatos anteriores,Negativo,0
+"O produto funciona, mas as instruções de uso poderiam ser mais claras",Neutro,1
+Produto extraviado e empresa não resolve e assistência técnica sem peças de reposição,Negativo,0
+"Atendimento dentro do padrão normal, sem nada de especial a destacar",Neutro,1
+Suporte técnico competente e ágil na resolução completa do problema,Positivo,2
+"Produto chegou em embalagem reforçada, sem nenhum dano no transporte",Positivo,2
+"Produto chegou correto, embalagem simples mas funciona como esperado",Neutro,1
+"Produto funcional sem extras ou bônus adicionais, faz o básico",Neutro,1
+"Produto com manual somente em inglês, nunca mais compro nessa empresa",Negativo,0
+Suporte por email demorou mas finalmente resolveu o que foi solicitado,Neutro,1
+Produto com ferrugem nas peças metálicas e email sem resposta há mais de uma semana,Negativo,0
+"Primeira compra na loja, experiência dentro do esperado sem surpresas",Neutro,1
+"Qualidade incrível pelo preço praticado, recomendo a todos sem hesitação",Positivo,2
+"Entrega atrasou mais de 20 dias, tive que acionar o Procon",Negativo,0
+"Produto com manual somente em inglês, tive que acionar o Procon",Negativo,0
+"Produto com peças faltando na embalagem, péssima experiência de compra",Negativo,0
+"Produto com qualidade muito inferior ao anunciado, tive que acionar o Procon",Negativo,0
+Empresa que valoriza genuinamente o cliente acima de tudo,Positivo,2
+"Produto entregue no endereço errado, total desperdício de dinheiro",Negativo,0
+"Produto enviado sem embalagem adequada, nunca mais compro nessa empresa",Negativo,0
+"Recomendo fortemente essa empresa, confiável e produto de excelência",Positivo,2
+"Produto chegou correto, embalagem simples mas funciona como esperado",Neutro,1
+"Produto entregue conforme pedido, nada a elogiar nem reclamar",Neutro,1
+"O produto funciona, mas as instruções de uso poderiam ser mais claras",Neutro,1
+"Produto com manual somente em inglês, nunca mais compro nessa empresa",Negativo,0
+"Produto adequado para uso ocasional, qualidade compatível com o preço",Neutro,1
+Produto de altíssima qualidade com embalagem premium muito cuidadosa,Positivo,2
+"Compra realizada com segurança, produto perfeito e entrega exemplar",Positivo,2
+Atendimento cordial mas sem grande capacidade de resolver problemas,Neutro,1
+Suporte técnico competente e ágil na resolução completa do problema,Positivo,2
+"Produto chegou sem lacre de segurança, tive que acionar o Procon",Negativo,0
+Produto frágil que quebrou no desempacotamento e fiquei mais de uma hora esperando no telefone,Negativo,0
+Produto com manual somente em inglês e atendente foi grosseiro e desrespeitoso,Negativo,0
+"Voltarei a comprar com certeza, experiência simplesmente perfeita",Positivo,2
+Frete um pouco acima da média do mercado mas a entrega foi pontual,Neutro,1
+"Entrega no dia seguinte ao pedido, desempenho absolutamente impressionante",Positivo,2
+Produto muito barulhento em operação e empresa ignora histórico de contatos anteriores,Negativo,0
+"Atendimento normal, questão resolvida no prazo informado pelo suporte",Neutro,1
+Fiquei impressionado com a qualidade do produto e rapidez no envio,Positivo,2
+"Entrega expressa, produto bem embalado e funcionando perfeitamente",Positivo,2
+"Produto fantástico, minha família inteira adorou o presente escolhido",Positivo,2
+Produto razoável com custo-benefício aceitável para a categoria,Neutro,1
+"Produto veio com defeito de fábrica, tive que acionar o Procon",Negativo,0
+"Produto chegou correto, embalagem simples mas funciona como esperado",Neutro,1
+"Produto com problemas de conectividade, fui completamente enganado",Negativo,0
+"Qualidade aceitável para o preço pago, atende ao básico necessário",Neutro,1
+"Fui cobrado mas o produto nunca chegou, propaganda enganosa",Negativo,0
+Atendimento humanizado que faz toda a diferença na experiência,Positivo,2
+Atendimento humanizado que faz toda a diferença na experiência,Positivo,2
+"Atendimento normal, questão resolvida no prazo informado pelo suporte",Neutro,1
+"Atendimento respondeu em tempo hábil, solução parcialmente satisfatória",Neutro,1
+"Superou tudo que eu esperava, produto de qualidade excepcional",Positivo,2
+Produto não funciona conforme anunciado e reclamação ignorada no Reclame Aqui,Negativo,0
+"Produto funcional sem extras ou bônus adicionais, faz o básico",Neutro,1
+Produto muito barulhento em operação e robô de atendimento não resolve nada,Negativo,0
+"Produto muito barulhento em operação, péssima experiência de compra",Negativo,0
+Recomendo sem hesitar a todos os amigos e familiares próximos,Positivo,2
+Produto chegou sem lacre de segurança e fiquei mais de uma hora esperando no telefone,Negativo,0
+Produto superou expectativas em durabilidade e acabamento final,Positivo,2
+"Atendimento ok, não foi excepcional mas resolveu o que era necessário",Neutro,1
+Produto chegou completamente danificado e suporte prometeu retorno e sumiu,Negativo,0
+"Produto adequado para o uso básico diário, sem reclamações específicas",Neutro,1
+"Compra realizada com segurança, produto perfeito e entrega exemplar",Positivo,2
+"Produto com qualidade muito inferior ao anunciado, não recomendo essa loja para ninguém",Negativo,0
+"Troca realizada sem dificuldades, processo padrão de qualquer loja",Neutro,1
+"Qualidade aceitável para o preço pago, atende ao básico necessário",Neutro,1
+Produto com componentes falsificados e atendimento horrível e sem resolução,Negativo,0
+"Produto com problemas de conectividade, tive que acionar o Procon",Negativo,0
+Empresa que respeita o cliente e cumpre rigorosamente o prometido,Positivo,2
+Empresa séria e comprometida que cumpre rigorosamente o prometido,Positivo,2
+"Produto ok, manual poderia ser mais detalhado e fácil de entender",Neutro,1
+"Produto com dimensões diferentes do especificado, não recomendo essa loja para ninguém",Negativo,0
+"Produto extraviado e empresa não resolve, tive que acionar o Procon",Negativo,0
+"Serviço de entrega médio, produto chegou sem danos mas sem agilidade",Neutro,1
+"Produto entregue conforme pedido, nada a elogiar nem reclamar",Neutro,1
+Suporte proativo me avisou do status do pedido sem eu precisar perguntar,Positivo,2
+Suporte proativo me avisou do status do pedido sem eu precisar perguntar,Positivo,2
+Produto com manual somente em inglês e atendimento horrível e sem resolução,Negativo,0
+"Produto sem certificação obrigatória, experiência terrível do início ao fim",Negativo,0
+Loja online com melhor experiência de compra que já tive,Positivo,2
+"Fui cobrado mas o produto nunca chegou, descaso total com o consumidor",Negativo,0
+"Compra fácil no site, entrega rápida e produto de altíssima qualidade",Positivo,2
+Produto com acabamento impecável e material de altíssima durabilidade,Positivo,2
+"Produto muito barulhento em operação, fui completamente enganado",Negativo,0
+"Empresa incrível, produto entregue muito antes do prazo previsto",Positivo,2
+"Produto recusado na entrega por estar danificado, fui completamente enganado",Negativo,0
+"Produto médio, adequado para presente informal e despretensioso",Neutro,1
+"Produto frágil que quebrou no desempacotamento, péssima experiência de compra",Negativo,0
+"Qualidade incrível pelo preço praticado, recomendo a todos sem hesitação",Positivo,2
+Suporte por email demorou mas finalmente resolveu o que foi solicitado,Neutro,1
+Produto com data de validade vencida e devolução negada sem justificativa,Negativo,0
+Cancelamento não processado continuei sendo cobrado e empresa ignora histórico de contatos anteriores,Negativo,0
+Produto quebrou na primeira semana e email sem resposta há mais de uma semana,Negativo,0
+"Experiência fantástica de ponta a ponta, voltarei a comprar sempre",Positivo,2
+"Empresa incrível, produto entregue muito antes do prazo previsto",Positivo,2
+Produto conforme descrito com qualidade bem superior ao esperado,Positivo,2
+"Produto veio sem os acessórios prometidos, total desperdício de dinheiro",Negativo,0
+"Produto com qualidade muito inferior ao anunciado, propaganda enganosa",Negativo,0
+Cobrado duas vezes sem estorno e suporte técnico totalmente despreparado,Negativo,0
+"Produto com data de validade vencida, fui completamente enganado",Negativo,0
+"Atendimento dentro do padrão normal, sem nada de especial a destacar",Neutro,1
+"Produto com ferrugem nas peças metálicas, empresa que não respeita o cliente",Negativo,0
+"Compra realizada sem grandes problemas, produto conforme o anunciado",Neutro,1
+Produto superou expectativas em durabilidade e acabamento final,Positivo,2
+"Produto entregue conforme pedido, nada a elogiar nem reclamar",Neutro,1
+Suporte por email demorou mas finalmente resolveu o que foi solicitado,Neutro,1
+Produto muito barulhento em operação e suporte prometeu retorno e sumiu,Negativo,0
+"Compra realizada com segurança, produto perfeito e entrega exemplar",Positivo,2
+"Produto conforme descrito, entrega no prazo estipulado pelo vendedor",Neutro,1
+"Produto sem certificação obrigatória, empresa que não respeita o cliente",Negativo,0
+Produto com data de validade vencida e email sem resposta há mais de uma semana,Negativo,0
+"Entrega antecipada e produto impecável, embalagem perfeita e reforçada",Positivo,2
+"Produto não funciona conforme anunciado, propaganda enganosa",Negativo,0
+Produto completamente diferente do site e atendente foi grosseiro e desrespeitoso,Negativo,0
+"Recomendo fortemente essa empresa, confiável e produto de excelência",Positivo,2
+Produto superou expectativas em durabilidade e acabamento final,Positivo,2
+"Cobrado duas vezes sem estorno, empresa que não respeita o cliente",Negativo,0
+"Nota fiscal com cnpj diferente do vendedor, descaso total com o consumidor",Negativo,0
+Produto de altíssima qualidade com embalagem premium muito cuidadosa,Positivo,2
+Produto muito barulhento em operação e robô de atendimento não resolve nada,Negativo,0
+"Entrega expressa, produto bem embalado e funcionando perfeitamente",Positivo,2
+"Atendimento ok, não foi excepcional mas resolveu o que era necessário",Neutro,1
+"Empresa muito séria, atendimento humanizado e genuinamente eficiente",Positivo,2
+Produto com dimensões diferentes do especificado e devolução negada sem justificativa,Negativo,0
+"Produto frágil que quebrou no desempacotamento, experiência terrível do início ao fim",Negativo,0
+"Frete expresso cobrado mas entrega atrasou, propaganda enganosa",Negativo,0
+Produto quebrou na primeira semana e devolução negada sem justificativa,Negativo,0
+Produto com sistema desatualizado sem suporte e robô de atendimento não resolve nada,Negativo,0
+"Compra online padrão, igual a qualquer outra experiência do mercado",Neutro,1
+"Atendimento respondeu em tempo hábil, solução parcialmente satisfatória",Neutro,1
+"Produto veio sem os acessórios prometidos, não recomendo essa loja para ninguém",Negativo,0
+"Site funcionou bem, pagamento processado sem dificuldades no checkout",Neutro,1
+"Primeira compra na loja, experiência dentro do esperado sem surpresas",Neutro,1
+"Suporte resolveu meu problema em menos de 5 minutos, serviço impecável",Positivo,2
+"Produto robusto e de excelente qualidade, valeu cada centavo investido",Positivo,2
+Produto razoável com custo-benefício aceitável para a categoria,Neutro,1
+Produto com peças faltando na embalagem e assistência técnica sem peças de reposição,Negativo,0
+Entrega atrasou mais de 20 dias e devolução negada sem justificativa,Negativo,0
+Produto com ferrugem nas peças metálicas e suporte técnico totalmente despreparado,Negativo,0
+Suporte proativo me avisou do status do pedido sem eu precisar perguntar,Positivo,2
+"Produto com data de validade vencida, propaganda enganosa",Negativo,0
+Resposta do suporte demorou dois dias mas finalmente resolveu a questão,Neutro,1
+"Produto com cheiro estranho ao abrir, total desperdício de dinheiro",Negativo,0
+"Atendimento rápido, eficiente e resolutivo em menos de dez minutos",Positivo,2
+Atendimento cordial mas sem grande capacidade de resolver problemas,Neutro,1
+Suporte proativo me avisou do status do pedido sem eu precisar perguntar,Positivo,2
+"Produto extraviado e empresa não resolve, propaganda enganosa",Negativo,0
+"O produto funciona, mas as instruções de uso poderiam ser mais claras",Neutro,1
+"Estou muito satisfeito com a compra, recomendo essa loja a todos",Positivo,2
+"Fui cobrado mas o produto nunca chegou, descaso total com o consumidor",Negativo,0
+"Primeira compra na loja, experiência dentro do esperado sem surpresas",Neutro,1
+Produto com qualidade muito inferior ao anunciado e reclamação ignorada no Reclame Aqui,Negativo,0
+"Produto muito barulhento em operação, propaganda enganosa",Negativo,0
+"Produto médio, adequado para presente informal e despretensioso",Neutro,1
+"Produto com componentes falsificados, tive que acionar o Procon",Negativo,0
+"Produto muito barulhento em operação, descaso total com o consumidor",Negativo,0
+"Serviço de entrega médio, produto chegou sem danos mas sem agilidade",Neutro,1
+"Compra realizada com segurança, produto perfeito e entrega exemplar",Positivo,2
+"Atendimento ok, não foi excepcional mas resolveu o que era necessário",Neutro,1
+"Empresa demora semanas para estornar pagamento, descaso total com o consumidor",Negativo,0
+"Pedido processado normalmente, produto dentro das especificações básicas",Neutro,1
+Empresa de confiança que recomendo para qualquer pessoa sem hesitar,Positivo,2
+"Entrega no dia seguinte ao pedido, desempenho absolutamente impressionante",Positivo,2
+"Entrega no intervalo prometido, produto em conformidade com o pedido",Neutro,1
+Produto com problemas de conectividade e fiquei mais de uma hora esperando no telefone,Negativo,0
+"Nota fiscal com cnpj diferente do vendedor, nunca mais compro nessa empresa",Negativo,0
+Frete um pouco acima da média do mercado mas a entrega foi pontual,Neutro,1
+Produto superou expectativas em durabilidade e acabamento final,Positivo,2
+"Suporte resolveu meu problema em menos de 5 minutos, serviço impecável",Positivo,2
+"Fui cobrado mas o produto nunca chegou, total desperdício de dinheiro",Negativo,0
+"Entrega no intervalo prometido, produto em conformidade com o pedido",Neutro,1
+"Produto chegou dentro do prazo, sem problemas aparentes na entrega",Neutro,1
+"Compra online padrão, igual a qualquer outra experiência do mercado",Neutro,1
+Produto com dimensões diferentes do especificado e fiquei mais de uma hora esperando no telefone,Negativo,0
+Produto com dimensões diferentes do especificado e reclamação ignorada no Reclame Aqui,Negativo,0
+Produto de qualidade excepcional que vale muito mais do que o preço,Positivo,2
+Produto com qualidade muito inferior ao anunciado e atendimento terceirizado desinformado,Negativo,0
+Suporte proativo me avisou do status do pedido sem eu precisar perguntar,Positivo,2
+"Produto exatamente igual ao descrito, sem nenhuma surpresa desagradável",Positivo,2
+"Compra online padrão, igual a qualquer outra experiência do mercado",Neutro,1
+Empresa demora semanas para estornar pagamento e fiquei mais de uma hora esperando no telefone,Negativo,0
+"Atendimento razoável, resolveu meu problema mas demorou mais que esperado",Neutro,1
+"Produto quebrou na primeira semana, tive que acionar o Procon",Negativo,0
+Produto com problemas de conectividade e nunca consegui falar com um atendente,Negativo,0
+"Produto funcional sem extras ou bônus adicionais, faz o básico",Neutro,1
+"Produto chegou em embalagem reforçada, sem nenhum dano no transporte",Positivo,2
+Produto com componentes falsificados e chamado aberto sem nenhuma atualização,Negativo,0
+"Produto com componentes falsificados, empresa que não respeita o cliente",Negativo,0
+"Nota fiscal com cnpj diferente do vendedor, descaso total com o consumidor",Negativo,0
+"Atendimento normal, questão resolvida no prazo informado pelo suporte",Neutro,1
+"Empresa incrível, produto entregue muito antes do prazo previsto",Positivo,2
+"Troca realizada sem dificuldades, processo padrão de qualquer loja",Neutro,1
+Empresa de confiança que recomendo para qualquer pessoa sem hesitar,Positivo,2
+"Fui cobrado mas o produto nunca chegou, empresa que não respeita o cliente",Negativo,0
+"Produto com dimensões diferentes do especificado, descaso total com o consumidor",Negativo,0
+Produto com sistema desatualizado sem suporte e atendente foi grosseiro e desrespeitoso,Negativo,0
+"Atendimento exemplar, empresa verdadeiramente preocupada com o cliente",Positivo,2
+"Compra fácil no site, entrega rápida e produto de altíssima qualidade",Positivo,2
+Produto muito barulhento em operação e suporte técnico totalmente despreparado,Negativo,0
+Produto com manual somente em inglês e email sem resposta há mais de uma semana,Negativo,0
+"Produto chegou dentro do prazo, sem problemas aparentes na entrega",Neutro,1
+"Suporte resolveu meu problema em menos de 5 minutos, serviço impecável",Positivo,2
+"Serviço de entrega médio, produto chegou sem danos mas sem agilidade",Neutro,1
+"Atendimento rápido, eficiente e resolutivo em menos de dez minutos",Positivo,2
+"Estou muito satisfeito com a compra, recomendo essa loja a todos",Positivo,2
+"Produto recusado na entrega por estar danificado, propaganda enganosa",Negativo,0
+Atendimento cordial mas sem grande capacidade de resolver problemas,Neutro,1
+"Produto quebrou na primeira semana, total desperdício de dinheiro",Negativo,0
+"Compra tranquila, sem maiores problemas ou surpresas durante o processo",Neutro,1
+"Serviço de entrega médio, produto chegou sem danos mas sem agilidade",Neutro,1
+Desconto prometido não foi aplicado e atendimento terceirizado desinformado,Negativo,0
+Atendimento cordial mas sem grande capacidade de resolver problemas,Neutro,1
+Suporte por email demorou mas finalmente resolveu o que foi solicitado,Neutro,1
+"Compra realizada sem grandes problemas, produto conforme o anunciado",Neutro,1
+"Melhor compra que realizei esse ano, produto simplesmente fantástico",Positivo,2
+"Produto ok, manual poderia ser mais detalhado e fácil de entender",Neutro,1
+"Superou tudo que eu esperava, produto de qualidade excepcional",Positivo,2
+"Produto frágil que quebrou no desempacotamento, propaganda enganosa",Negativo,0
+Produto frágil que quebrou no desempacotamento e garantia não foi honrada dentro do prazo,Negativo,0
+"Compra realizada com segurança, produto perfeito e entrega exemplar",Positivo,2
+"Melhor compra que realizei esse ano, produto simplesmente fantástico",Positivo,2
+"O produto funciona, mas as instruções de uso poderiam ser mais claras",Neutro,1
+"Produto médio, adequado para presente informal e despretensioso",Neutro,1
+Compra realizada com total segurança e transparência no processo,Positivo,2
+"Troca realizada sem dificuldades, processo padrão de qualquer loja",Neutro,1
+"Produto muito barulhento em operação, experiência terrível do início ao fim",Negativo,0
+Resposta do suporte demorou dois dias mas finalmente resolveu a questão,Neutro,1
+"Produto com data de validade vencida, descaso total com o consumidor",Negativo,0
+"O produto funciona, mas as instruções de uso poderiam ser mais claras",Neutro,1
+"Suporte resolveu meu problema em menos de 5 minutos, serviço impecável",Positivo,2
+Loja online com melhor experiência de compra que já tive,Positivo,2
+Produto veio sem os acessórios prometidos e garantia não foi honrada dentro do prazo,Negativo,0
+Produto recusado na entrega por estar danificado e email sem resposta há mais de uma semana,Negativo,0
+"Compra realizada sem grandes problemas, produto conforme o anunciado",Neutro,1
+"Produto com sistema desatualizado sem suporte, experiência terrível do início ao fim",Negativo,0
+Produto com problemas de conectividade e suporte técnico totalmente despreparado,Negativo,0
+Suporte por email demorou mas finalmente resolveu o que foi solicitado,Neutro,1
+Atendimento cordial mas sem grande capacidade de resolver problemas,Neutro,1
+"Produto com sistema desatualizado sem suporte, tive que acionar o Procon",Negativo,0
+"Experiência sem nada de extraordinário, expectativas foram atendidas",Neutro,1
+Empresa séria e comprometida que cumpre rigorosamente o prometido,Positivo,2
+"Site com informações básicas, poderia ter mais detalhes técnicos",Neutro,1
+"Compra tranquila, sem maiores problemas ou surpresas durante o processo",Neutro,1
+"Qualidade incrível pelo preço praticado, recomendo a todos sem hesitação",Positivo,2
+Produto muito barulhento em operação e suporte prometeu retorno e sumiu,Negativo,0
+Melhor custo-benefício que encontrei no mercado após muita pesquisa,Positivo,2
+Frete um pouco acima da média do mercado mas a entrega foi pontual,Neutro,1
+Produto com dimensões diferentes do especificado e chamado aberto sem nenhuma atualização,Negativo,0
+Produto conforme descrito com qualidade bem superior ao esperado,Positivo,2
+Produto muito barulhento em operação e empresa ignora histórico de contatos anteriores,Negativo,0
+Produto de qualidade excepcional que vale muito mais do que o preço,Positivo,2
+"Experiência de compra comum, nem muito boa nem muito ruim",Neutro,1
+"Produto frágil que quebrou no desempacotamento, fui completamente enganado",Negativo,0
+"Produto veio com defeito de fábrica, total desperdício de dinheiro",Negativo,0
+Produto com manual somente em inglês e atendimento terceirizado desinformado,Negativo,0
+Produto de altíssima qualidade com embalagem premium muito cuidadosa,Positivo,2
+Produto de altíssima qualidade com embalagem premium muito cuidadosa,Positivo,2
+Produto com dimensões diferentes do especificado e atendimento terceirizado desinformado,Negativo,0
+"Suporte resolveu meu problema em menos de 5 minutos, serviço impecável",Positivo,2
+"Produto com problemas de conectividade, propaganda enganosa",Negativo,0
+"Produto sem certificação obrigatória, empresa que não respeita o cliente",Negativo,0
+"Troca realizada sem dificuldades, processo padrão de qualquer loja",Neutro,1
+Compra realizada com total segurança e transparência no processo,Positivo,2
+"Suporte resolveu meu problema em menos de 5 minutos, serviço impecável",Positivo,2
+Fiquei impressionado com a qualidade do produto e rapidez no envio,Positivo,2
+"Compra realizada com segurança, produto perfeito e entrega exemplar",Positivo,2
+"Compra realizada sem grandes problemas, produto conforme o anunciado",Neutro,1
+"Empresa muito séria, atendimento humanizado e genuinamente eficiente",Positivo,2
+"Produto simples que cumpre o que promete, sem grandes diferenciais",Neutro,1
+"Entrega no dia seguinte ao pedido, desempenho absolutamente impressionante",Positivo,2
+Compra realizada com total segurança e transparência no processo,Positivo,2
+"Entrega dentro do esperado, produto chegou em bom estado de conservação",Neutro,1
+"Produto recusado na entrega por estar danificado, fui completamente enganado",Negativo,0
+Produto quebrou na primeira semana e atendimento terceirizado desinformado,Negativo,0
+"Atendimento razoável, resolveu meu problema mas demorou mais que esperado",Neutro,1
+"Produto quebrou na primeira semana, propaganda enganosa",Negativo,0
+"Produto veio sem os acessórios prometidos, descaso total com o consumidor",Negativo,0
+"Nota fiscal com cnpj diferente do vendedor, péssima experiência de compra",Negativo,0
+"Produto frágil que quebrou no desempacotamento, empresa que não respeita o cliente",Negativo,0
+"Produto com peças faltando na embalagem, nunca mais compro nessa empresa",Negativo,0
+Produto frágil que quebrou no desempacotamento e robô de atendimento não resolve nada,Negativo,0
+Produto completamente diferente do site e atendimento horrível e sem resolução,Negativo,0
+"Experiência de compra comum, nem muito boa nem muito ruim",Neutro,1
+"Produto quebrou na primeira semana, empresa que não respeita o cliente",Negativo,0
+"Estou muito satisfeito com a compra, recomendo essa loja a todos",Positivo,2
+"Fui cobrado mas o produto nunca chegou, descaso total com o consumidor",Negativo,0
+"Produto com qualidade muito inferior ao anunciado, não recomendo essa loja para ninguém",Negativo,0
+"Produto entregue no endereço errado, tive que acionar o Procon",Negativo,0
+"Prazo completamente descumprido sem aviso, não recomendo essa loja para ninguém",Negativo,0
+"Produto com manual somente em inglês, péssima experiência de compra",Negativo,0
+Produto recusado na entrega por estar danificado e nunca consegui falar com um atendente,Negativo,0
+"Qualidade aceitável para o preço pago, atende ao básico necessário",Neutro,1
+"Primeira compra na loja, experiência dentro do esperado sem surpresas",Neutro,1
+"Produto completamente diferente do site, descaso total com o consumidor",Negativo,0
+"Compra fácil no site, entrega rápida e produto de altíssima qualidade",Positivo,2
+"Primeira compra na loja, experiência dentro do esperado sem surpresas",Neutro,1
+"Produto veio com defeito de fábrica, experiência terrível do início ao fim",Negativo,0
+"O produto funciona, mas as instruções de uso poderiam ser mais claras",Neutro,1
+"Entrega expressa, produto bem embalado e funcionando perfeitamente",Positivo,2
+"Produto não funciona conforme anunciado, nunca mais compro nessa empresa",Negativo,0
+"Produto robusto e de excelente qualidade, valeu cada centavo investido",Positivo,2
+Empresa de confiança que recomendo para qualquer pessoa sem hesitar,Positivo,2
+"Produto com peças faltando na embalagem, tive que acionar o Procon",Negativo,0
+"Produto conforme descrito, entrega no prazo estipulado pelo vendedor",Neutro,1
+Produto com qualidade razoável que atende à necessidade básica,Neutro,1
+"Atendimento respondeu em tempo hábil, solução parcialmente satisfatória",Neutro,1
+"Atendimento dentro do padrão normal, sem nada de especial a destacar",Neutro,1
+Suporte proativo me avisou do status do pedido sem eu precisar perguntar,Positivo,2
+"Frete expresso cobrado mas entrega atrasou, total desperdício de dinheiro",Negativo,0
+"Fui cobrado mas o produto nunca chegou, fui completamente enganado",Negativo,0
+"Atendimento exemplar, empresa verdadeiramente preocupada com o cliente",Positivo,2
+"Produto com peças faltando na embalagem, tive que acionar o Procon",Negativo,0
+Melhor custo-benefício que encontrei no mercado após muita pesquisa,Positivo,2
+"Produto chegou correto, embalagem simples mas funciona como esperado",Neutro,1
+Produto com data de validade vencida e nunca consegui falar com um atendente,Negativo,0
+Atendimento humanizado que faz toda a diferença na experiência,Positivo,2
+Produto entregue no endereço errado e fiquei mais de uma hora esperando no telefone,Negativo,0
+"Atendimento razoável, resolveu meu problema mas demorou mais que esperado",Neutro,1
+"Compra realizada sem grandes problemas, produto conforme o anunciado",Neutro,1
+"Produto adequado para uso ocasional, qualidade compatível com o preço",Neutro,1
+Produto entregue no endereço errado e email sem resposta há mais de uma semana,Negativo,0
+"Produto e serviço impecáveis, superando em muito as expectativas",Positivo,2
+"Produto com manual somente em inglês, empresa que não respeita o cliente",Negativo,0
+Resposta do suporte demorou dois dias mas finalmente resolveu a questão,Neutro,1
+Produto chegou completamente danificado e garantia não foi honrada dentro do prazo,Negativo,0
+"Serviço de entrega médio, produto chegou sem danos mas sem agilidade",Neutro,1
+"Entrega dentro do esperado, produto chegou em bom estado de conservação",Neutro,1
+"Atendimento normal, questão resolvida no prazo informado pelo suporte",Neutro,1
+Produto com componentes falsificados e atendimento terceirizado desinformado,Negativo,0
+Produto superou expectativas em durabilidade e acabamento final,Positivo,2
+"Produto ok, manual poderia ser mais detalhado e fácil de entender",Neutro,1
+"Produto sensacional e entrega super eficiente, parabéns à empresa",Positivo,2
+"Atendimento rápido, atencioso e muito eficiente, parabéns à equipe",Positivo,2
+Produto mediano mas serve para quem precisa de algo funcional e simples,Neutro,1
+Suporte respondeu em prazo aceitável e resolveu parcialmente o problema,Neutro,1
+"Produto fantástico, minha família inteira adorou o presente escolhido",Positivo,2
+Produto com qualidade muito inferior ao anunciado e fiquei mais de uma hora esperando no telefone,Negativo,0
+"Empresa demora semanas para estornar pagamento, não recomendo essa loja para ninguém",Negativo,0
+"Produto simples que cumpre o que promete, sem grandes diferenciais",Neutro,1
+"Atendimento respondeu em tempo hábil, solução parcialmente satisfatória",Neutro,1
+Empresa que valoriza genuinamente o cliente acima de tudo,Positivo,2
+Produto chegou antes do prazo e superou as expectativas em acabamento,Positivo,2
+Produto enviado sem embalagem adequada e reclamação ignorada no Reclame Aqui,Negativo,0
+"Entrega no intervalo prometido, produto em conformidade com o pedido",Neutro,1
+"Produto veio com defeito de fábrica, empresa que não respeita o cliente",Negativo,0
+Produto enviado sem embalagem adequada e atendente foi grosseiro e desrespeitoso,Negativo,0
+"Produto com ferrugem nas peças metálicas, tive que acionar o Procon",Negativo,0
+Produto razoável com custo-benefício aceitável para a categoria,Neutro,1
+"Troca realizada sem dificuldades, processo padrão de qualquer loja",Neutro,1
+"Compra online padrão, igual a qualquer outra experiência do mercado",Neutro,1
+"Experiência sem nada de extraordinário, expectativas foram atendidas",Neutro,1
+Produto com peças faltando na embalagem e garantia não foi honrada dentro do prazo,Negativo,0
+"Produto sem certificação obrigatória, tive que acionar o Procon",Negativo,0
+"Produto com peças faltando na embalagem, não recomendo essa loja para ninguém",Negativo,0
+"Produto ok, manual poderia ser mais detalhado e fácil de entender",Neutro,1
+"Produto muito barulhento em operação, tive que acionar o Procon",Negativo,0
+Produto chegou completamente danificado e empresa ignora histórico de contatos anteriores,Negativo,0
+"Site com informações básicas, poderia ter mais detalhes técnicos",Neutro,1
+"Equipe de vendas bem treinada, atenciosa e extremamente prestativa",Positivo,2
+Atendimento humanizado que faz toda a diferença na experiência,Positivo,2
+"Produto adequado para uso ocasional, qualidade compatível com o preço",Neutro,1
+"Empresa demora semanas para estornar pagamento, tive que acionar o Procon",Negativo,0
+"Compra tranquila, sem maiores problemas ou surpresas durante o processo",Neutro,1
+"Produto completamente diferente do site, descaso total com o consumidor",Negativo,0
+"Produto chegou em embalagem reforçada, sem nenhum dano no transporte",Positivo,2
+"Produto com componentes falsificados, nunca mais compro nessa empresa",Negativo,0
+Produto superou expectativas em durabilidade e acabamento final,Positivo,2
+Suporte proativo me avisou do status do pedido sem eu precisar perguntar,Positivo,2
+"Compra online padrão, igual a qualquer outra experiência do mercado",Neutro,1
+"Produto simples que cumpre o que promete, sem grandes diferenciais",Neutro,1
+Produto recusado na entrega por estar danificado e assistência técnica sem peças de reposição,Negativo,0
+"Entregador tentou uma vez e não avisou, descaso total com o consumidor",Negativo,0
+Empresa séria e comprometida que cumpre rigorosamente o prometido,Positivo,2
+Produto sem certificação obrigatória e reclamação ignorada no Reclame Aqui,Negativo,0
+Produto razoável com custo-benefício aceitável para a categoria,Neutro,1
+"Melhor compra que realizei esse ano, produto simplesmente fantástico",Positivo,2
+Resposta do suporte demorou dois dias mas finalmente resolveu a questão,Neutro,1
+Produto mediano mas serve para quem precisa de algo funcional e simples,Neutro,1
+Frete um pouco acima da média do mercado mas a entrega foi pontual,Neutro,1
+"Produto sem certificação obrigatória, fui completamente enganado",Negativo,0
+"Atendimento dentro do padrão normal, sem nada de especial a destacar",Neutro,1
+"Produto mediano, esperava um pouco mais pelo preço que foi cobrado",Neutro,1
+"Atendimento rápido, eficiente e resolutivo em menos de dez minutos",Positivo,2
+"Voltarei a comprar com certeza, experiência simplesmente perfeita",Positivo,2
+"Produto com peças faltando na embalagem, nunca mais compro nessa empresa",Negativo,0
+Suporte por email demorou mas finalmente resolveu o que foi solicitado,Neutro,1
+"Produto com peças faltando na embalagem, propaganda enganosa",Negativo,0
+"Qualidade incrível pelo preço praticado, recomendo a todos sem hesitação",Positivo,2
+"Produto com cheiro estranho ao abrir, propaganda enganosa",Negativo,0
+"Produto com data de validade vencida, não recomendo essa loja para ninguém",Negativo,0
+Produto quebrou na primeira semana e atendente foi grosseiro e desrespeitoso,Negativo,0
+Produto muito barulhento em operação e suporte prometeu retorno e sumiu,Negativo,0
+Atendimento humanizado que faz toda a diferença na experiência,Positivo,2
+"Compra fácil no site, entrega rápida e produto de altíssima qualidade",Positivo,2
+"Produto chegou em embalagem reforçada, sem nenhum dano no transporte",Positivo,2
+"Estou muito satisfeito com a compra, recomendo essa loja a todos",Positivo,2
+"Atendimento rápido, atencioso e muito eficiente, parabéns à equipe",Positivo,2
+"Compra online padrão, igual a qualquer outra experiência do mercado",Neutro,1
+Produto com componentes falsificados e atendimento terceirizado desinformado,Negativo,0
+"Produto chegou em embalagem reforçada, sem nenhum dano no transporte",Positivo,2
+Fiquei impressionado com a qualidade do produto e rapidez no envio,Positivo,2
+Produto com acabamento impecável e material de altíssima durabilidade,Positivo,2
+Produto com peças faltando na embalagem e atendente foi grosseiro e desrespeitoso,Negativo,0
+"Compra realizada sem grandes problemas, produto conforme o anunciado",Neutro,1
+Atendimento humanizado que faz toda a diferença na experiência,Positivo,2
+Produto com sistema desatualizado sem suporte e devolução negada sem justificativa,Negativo,0
+"Produto não funciona conforme anunciado, propaganda enganosa",Negativo,0
+"Produto excelente, superou todas as minhas expectativas em qualidade",Positivo,2
+"Experiência sem nada de extraordinário, expectativas foram atendidas",Neutro,1
+Produto com problemas de conectividade e assistência técnica sem peças de reposição,Negativo,0
+"Produto com dimensões diferentes do especificado, experiência terrível do início ao fim",Negativo,0
+Empresa que valoriza genuinamente o cliente acima de tudo,Positivo,2
+"Entrega dentro do esperado, produto chegou em bom estado de conservação",Neutro,1
+"Pedido processado normalmente, produto dentro das especificações básicas",Neutro,1
+"Entrega antecipada e produto impecável, embalagem perfeita e reforçada",Positivo,2
+"Entrega no prazo, produto perfeito e atendimento nota dez",Positivo,2
+Produto extraviado e empresa não resolve e garantia não foi honrada dentro do prazo,Negativo,0
+Produto não funciona conforme anunciado e suporte prometeu retorno e sumiu,Negativo,0
+"Site funcionou bem, pagamento processado sem dificuldades no checkout",Neutro,1
+Produto veio sem os acessórios prometidos e robô de atendimento não resolve nada,Negativo,0
+"Compra fácil, rápida e segura com excelente experiência do usuário",Positivo,2
+"Embalagem violada no momento da entrega, propaganda enganosa",Negativo,0
+"Compra online padrão, igual a qualquer outra experiência do mercado",Neutro,1
+"Produto com manual somente em inglês, descaso total com o consumidor",Negativo,0
+"Cobrado duas vezes sem estorno, tive que acionar o Procon",Negativo,0
+"Atendimento rápido, atencioso e muito eficiente, parabéns à equipe",Positivo,2
+"Produto chegou dentro do prazo, sem problemas aparentes na entrega",Neutro,1
+Produto chegou antes do prazo e superou as expectativas em acabamento,Positivo,2
+Empresa que respeita o cliente e cumpre rigorosamente o prometido,Positivo,2
+"Produto entregue conforme pedido, nada a elogiar nem reclamar",Neutro,1
+Compra realizada com total segurança e transparência no processo,Positivo,2
+"Produto mediano, esperava um pouco mais pelo preço que foi cobrado",Neutro,1
+"Produto extraviado e empresa não resolve, não recomendo essa loja para ninguém",Negativo,0
+"Produto com peças faltando na embalagem, nunca mais compro nessa empresa",Negativo,0
+"Produto chegou dentro do prazo, sem problemas aparentes na entrega",Neutro,1
+Produto razoável com custo-benefício aceitável para a categoria,Neutro,1
+Produto completamente diferente do site e atendimento terceirizado desinformado,Negativo,0
+Produto frágil que quebrou no desempacotamento e suporte prometeu retorno e sumiu,Negativo,0
+Produto sem certificação obrigatória e reclamação ignorada no Reclame Aqui,Negativo,0
+Produto superou expectativas em durabilidade e acabamento final,Positivo,2
+"Site com informações básicas, poderia ter mais detalhes técnicos",Neutro,1
+"Produto com data de validade vencida, experiência terrível do início ao fim",Negativo,0
+Melhor custo-benefício que encontrei no mercado após muita pesquisa,Positivo,2
+Suporte por email demorou mas finalmente resolveu o que foi solicitado,Neutro,1
+Produto com problemas de conectividade e atendimento terceirizado desinformado,Negativo,0
+Fiquei impressionado com a qualidade do produto e rapidez no envio,Positivo,2
+Suporte por email demorou mas finalmente resolveu o que foi solicitado,Neutro,1
+"Primeira compra na loja, experiência dentro do esperado sem surpresas",Neutro,1
+Produto chegou completamente danificado e nunca consegui falar com um atendente,Negativo,0
+Produto mediano mas serve para quem precisa de algo funcional e simples,Neutro,1
+Atendimento humanizado que faz toda a diferença na experiência,Positivo,2
+"Produto com peças faltando na embalagem, fui completamente enganado",Negativo,0
+"Site com informações básicas, poderia ter mais detalhes técnicos",Neutro,1
+"Compra fácil no site, entrega rápida e produto de altíssima qualidade",Positivo,2
+Produto chegou completamente danificado e garantia não foi honrada dentro do prazo,Negativo,0
+"Atendimento respondeu em tempo hábil, solução parcialmente satisfatória",Neutro,1
+"Entrega expressa, produto bem embalado e funcionando perfeitamente",Positivo,2
+Empresa séria e comprometida que cumpre rigorosamente o prometido,Positivo,2
+"Atendimento rápido, eficiente e resolutivo em menos de dez minutos",Positivo,2
+"Qualidade incrível pelo preço praticado, recomendo a todos sem hesitação",Positivo,2
+"Nota fiscal com cnpj diferente do vendedor, fui completamente enganado",Negativo,0
+"Nota fiscal com cnpj diferente do vendedor, total desperdício de dinheiro",Negativo,0
+Produto de altíssima qualidade com embalagem premium muito cuidadosa,Positivo,2
+"Produto chegou sem lacre de segurança, empresa que não respeita o cliente",Negativo,0
+"Estou muito satisfeito com a compra, recomendo essa loja a todos",Positivo,2
+Produto veio com defeito de fábrica e robô de atendimento não resolve nada,Negativo,0
+"Entrega atrasou mais de 20 dias, fui completamente enganado",Negativo,0
+Produto chegou sem lacre de segurança e devolução negada sem justificativa,Negativo,0
+"Cobrado duas vezes sem estorno, experiência terrível do início ao fim",Negativo,0
+"Produto com peças faltando na embalagem, propaganda enganosa",Negativo,0
+Produto com dimensões diferentes do especificado e chamado aberto sem nenhuma atualização,Negativo,0
+Produto com data de validade vencida e atendente foi grosseiro e desrespeitoso,Negativo,0
+Produto de qualidade excepcional que vale muito mais do que o preço,Positivo,2
+"Produto chegou em embalagem reforçada, sem nenhum dano no transporte",Positivo,2
+"Entregador tentou uma vez e não avisou, propaganda enganosa",Negativo,0
+"Atendimento ok, não foi excepcional mas resolveu o que era necessário",Neutro,1
+"Experiência de compra comum, nem muito boa nem muito ruim",Neutro,1
+"Recomendo fortemente essa empresa, confiável e produto de excelência",Positivo,2
+Fiquei impressionado com a qualidade do produto e rapidez no envio,Positivo,2
+Produto mediano mas serve para quem precisa de algo funcional e simples,Neutro,1
+"Produto simples que cumpre o que promete, sem grandes diferenciais",Neutro,1
+Empresa de confiança que recomendo para qualquer pessoa sem hesitar,Positivo,2
+Produto frágil que quebrou no desempacotamento e atendimento horrível e sem resolução,Negativo,0
+"Prazo completamente descumprido sem aviso, nunca mais compro nessa empresa",Negativo,0
+Produto razoável com custo-benefício aceitável para a categoria,Neutro,1
+"Produto adequado para o uso básico diário, sem reclamações específicas",Neutro,1
+"Produto funcional sem extras ou bônus adicionais, faz o básico",Neutro,1
+Suporte proativo me avisou do status do pedido sem eu precisar perguntar,Positivo,2
+Produto superou expectativas em durabilidade e acabamento final,Positivo,2
+"Pedido processado normalmente, produto dentro das especificações básicas",Neutro,1
+Produto com peças faltando na embalagem e suporte prometeu retorno e sumiu,Negativo,0
+"Empresa demora semanas para estornar pagamento, fui completamente enganado",Negativo,0
+Produto superou expectativas em durabilidade e acabamento final,Positivo,2
+Empresa que respeita o cliente e cumpre rigorosamente o prometido,Positivo,2
+"Produto funcional sem extras ou bônus adicionais, faz o básico",Neutro,1
+"Produto funcional sem extras ou bônus adicionais, faz o básico",Neutro,1
+Produto chegou antes do prazo e superou as expectativas em acabamento,Positivo,2
+Melhor custo-benefício que encontrei no mercado após muita pesquisa,Positivo,2
+"Produto robusto e de excelente qualidade, valeu cada centavo investido",Positivo,2
+Prazo completamente descumprido sem aviso e devolução negada sem justificativa,Negativo,0
+"Produto veio com defeito de fábrica, experiência terrível do início ao fim",Negativo,0
+"Produto chegou sem lacre de segurança, não recomendo essa loja para ninguém",Negativo,0
+"Produto sensacional e entrega super eficiente, parabéns à empresa",Positivo,2
+"Produto com cheiro estranho ao abrir, fui completamente enganado",Negativo,0
+"Atendimento normal, questão resolvida no prazo informado pelo suporte",Neutro,1
+"Primeira compra na loja, experiência dentro do esperado sem surpresas",Neutro,1
+"Produto com dimensões diferentes do especificado, péssima experiência de compra",Negativo,0
+Resposta do suporte demorou dois dias mas finalmente resolveu a questão,Neutro,1
+"Suporte resolveu meu problema em menos de 5 minutos, serviço impecável",Positivo,2
+"Atendimento rápido, eficiente e resolutivo em menos de dez minutos",Positivo,2
+Produto chegou antes do prazo e superou as expectativas em acabamento,Positivo,2
+Resposta do suporte demorou dois dias mas finalmente resolveu a questão,Neutro,1
+Produto com sistema desatualizado sem suporte e robô de atendimento não resolve nada,Negativo,0
+"Produto chegou completamente danificado, nunca mais compro nessa empresa",Negativo,0
+Produto completamente diferente do site e atendimento horrível e sem resolução,Negativo,0
+Produto com data de validade vencida e chamado aberto sem nenhuma atualização,Negativo,0
+"Produto entregue no endereço errado, descaso total com o consumidor",Negativo,0
+"Site com informações básicas, poderia ter mais detalhes técnicos",Neutro,1
+"Produto e serviço impecáveis, superando em muito as expectativas",Positivo,2
+Produto com componentes falsificados e robô de atendimento não resolve nada,Negativo,0
+"Compra online padrão, igual a qualquer outra experiência do mercado",Neutro,1
+"Produto robusto e de excelente qualidade, valeu cada centavo investido",Positivo,2
+"Recomendo fortemente essa empresa, confiável e produto de excelência",Positivo,2
+Rastreamento preciso e entregador muito educado e pontual na entrega,Positivo,2
+"Embalagem violada no momento da entrega, propaganda enganosa",Negativo,0
+Produto muito barulhento em operação e atendimento horrível e sem resolução,Negativo,0
+"Produto com peças faltando na embalagem, empresa que não respeita o cliente",Negativo,0
+"Compra online padrão, igual a qualquer outra experiência do mercado",Neutro,1
+"Produto médio, adequado para presente informal e despretensioso",Neutro,1
+"Produto veio com defeito de fábrica, não recomendo essa loja para ninguém",Negativo,0
+Produto de qualidade excepcional que vale muito mais do que o preço,Positivo,2
+"Fui cobrado mas o produto nunca chegou, experiência terrível do início ao fim",Negativo,0
+"Primeira compra na loja, experiência dentro do esperado sem surpresas",Neutro,1
+Produto quebrou na primeira semana e atendente foi grosseiro e desrespeitoso,Negativo,0
+Suporte respondeu em prazo aceitável e resolveu parcialmente o problema,Neutro,1
+Produto sem certificação obrigatória e devolução negada sem justificativa,Negativo,0
+"Produto simples que cumpre o que promete, sem grandes diferenciais",Neutro,1
+"Serviço de pós-venda excelente, empresa se preocupa com a satisfação",Positivo,2
+Produto não funciona conforme anunciado e suporte prometeu retorno e sumiu,Negativo,0
+"Produto chegou dentro do prazo, sem problemas aparentes na entrega",Neutro,1
+"Cancelamento não processado continuei sendo cobrado, nunca mais compro nessa empresa",Negativo,0
+Rastreamento preciso e entregador muito educado e pontual na entrega,Positivo,2
+"Produto com ferrugem nas peças metálicas, péssima experiência de compra",Negativo,0
+Suporte técnico competente e ágil na resolução completa do problema,Positivo,2
+"Compra tranquila, sem maiores problemas ou surpresas durante o processo",Neutro,1
+"Atendimento rápido, eficiente e resolutivo em menos de dez minutos",Positivo,2
+"Voltarei a comprar com certeza, experiência simplesmente perfeita",Positivo,2
+"Atendimento normal, questão resolvida no prazo informado pelo suporte",Neutro,1
+"Nota fiscal com cnpj diferente do vendedor, experiência terrível do início ao fim",Negativo,0
+"Produto sensacional e entrega super eficiente, parabéns à empresa",Positivo,2
+Empresa de confiança que recomendo para qualquer pessoa sem hesitar,Positivo,2
+"Produto veio com defeito de fábrica, tive que acionar o Procon",Negativo,0
+Produto com manual somente em inglês e suporte prometeu retorno e sumiu,Negativo,0
+"Desconto prometido não foi aplicado, fui completamente enganado",Negativo,0
+"Produto adequado para o uso básico diário, sem reclamações específicas",Neutro,1
+"Equipe de vendas bem treinada, atenciosa e extremamente prestativa",Positivo,2
+"Entrega dentro do esperado, produto chegou em bom estado de conservação",Neutro,1
+Empresa que valoriza genuinamente o cliente acima de tudo,Positivo,2
+"Produto frágil que quebrou no desempacotamento, experiência terrível do início ao fim",Negativo,0
+Atendimento humanizado que faz toda a diferença na experiência,Positivo,2
+"Produto recusado na entrega por estar danificado, péssima experiência de compra",Negativo,0
+Produto não funciona conforme anunciado e reclamação ignorada no Reclame Aqui,Negativo,0
+"Embalagem violada no momento da entrega, nunca mais compro nessa empresa",Negativo,0
+"Cancelamento não processado continuei sendo cobrado, empresa que não respeita o cliente",Negativo,0
+"Compra online padrão, igual a qualquer outra experiência do mercado",Neutro,1
+Produto com qualidade muito inferior ao anunciado e suporte prometeu retorno e sumiu,Negativo,0
+Loja online com melhor experiência de compra que já tive,Positivo,2
+"Produto chegou em embalagem reforçada, sem nenhum dano no transporte",Positivo,2
+"Compra online padrão, igual a qualquer outra experiência do mercado",Neutro,1
+Embalagem violada no momento da entrega e atendimento terceirizado desinformado,Negativo,0
+"Produto chegou correto, embalagem simples mas funciona como esperado",Neutro,1
+Produto com ferrugem nas peças metálicas e chamado aberto sem nenhuma atualização,Negativo,0
+Atendimento humanizado que faz toda a diferença na experiência,Positivo,2
+Melhor custo-benefício que encontrei no mercado após muita pesquisa,Positivo,2
+"Entregador tentou uma vez e não avisou, não recomendo essa loja para ninguém",Negativo,0
+"Produto chegou sem lacre de segurança, experiência terrível do início ao fim",Negativo,0
+"Atendimento razoável, resolveu meu problema mas demorou mais que esperado",Neutro,1
+Empresa séria e comprometida que cumpre rigorosamente o prometido,Positivo,2
+"Produto com manual somente em inglês, total desperdício de dinheiro",Negativo,0
+"Produto funcional sem extras ou bônus adicionais, faz o básico",Neutro,1
+"Desconto prometido não foi aplicado, tive que acionar o Procon",Negativo,0
+"Site com informações básicas, poderia ter mais detalhes técnicos",Neutro,1
+Produto extraviado e empresa não resolve e assistência técnica sem peças de reposição,Negativo,0
+"Produto com manual somente em inglês, tive que acionar o Procon",Negativo,0
+"Produto com data de validade vencida, total desperdício de dinheiro",Negativo,0
+"Site com informações básicas, poderia ter mais detalhes técnicos",Neutro,1
+"Atendimento exemplar, empresa verdadeiramente preocupada com o cliente",Positivo,2
+Produto com ferrugem nas peças metálicas e robô de atendimento não resolve nada,Negativo,0
+"Produto com peças faltando na embalagem, tive que acionar o Procon",Negativo,0
+Produto com qualidade muito inferior ao anunciado e reclamação ignorada no Reclame Aqui,Negativo,0
+Produto com data de validade vencida e suporte técnico totalmente despreparado,Negativo,0
+"Produto adequado para o uso básico diário, sem reclamações específicas",Neutro,1
+"Atendimento exemplar, empresa verdadeiramente preocupada com o cliente",Positivo,2
+"Produto chegou correto, embalagem simples mas funciona como esperado",Neutro,1
+"Atendimento respondeu em tempo hábil, solução parcialmente satisfatória",Neutro,1
+"Embalagem violada no momento da entrega, fui completamente enganado",Negativo,0
+Cobrado duas vezes sem estorno e reclamação ignorada no Reclame Aqui,Negativo,0
+Produto com cheiro estranho ao abrir e empresa ignora histórico de contatos anteriores,Negativo,0
+Atendimento cordial mas sem grande capacidade de resolver problemas,Neutro,1
+Atendimento humanizado que faz toda a diferença na experiência,Positivo,2
+Suporte técnico competente e ágil na resolução completa do problema,Positivo,2
+Produto razoável com custo-benefício aceitável para a categoria,Neutro,1
+"Produto recusado na entrega por estar danificado, tive que acionar o Procon",Negativo,0
+Resposta do suporte demorou dois dias mas finalmente resolveu a questão,Neutro,1
+"Experiência sem nada de extraordinário, expectativas foram atendidas",Neutro,1
+"Site funcionou bem, pagamento processado sem dificuldades no checkout",Neutro,1
+"Produto com cheiro estranho ao abrir, nunca mais compro nessa empresa",Negativo,0
+Produto enviado sem embalagem adequada e email sem resposta há mais de uma semana,Negativo,0
+Recomendo sem hesitar a todos os amigos e familiares próximos,Positivo,2
+"Qualidade incrível pelo preço praticado, recomendo a todos sem hesitação",Positivo,2
+"Produto enviado sem embalagem adequada, tive que acionar o Procon",Negativo,0
+"Atendimento normal, questão resolvida no prazo informado pelo suporte",Neutro,1
+"Superou tudo que eu esperava, produto de qualidade excepcional",Positivo,2
+Empresa de confiança que recomendo para qualquer pessoa sem hesitar,Positivo,2
+"Produto exatamente igual ao descrito, sem nenhuma surpresa desagradável",Positivo,2
+"Nota fiscal com cnpj diferente do vendedor, experiência terrível do início ao fim",Negativo,0
+Produto com qualidade razoável que atende à necessidade básica,Neutro,1
+Produto com componentes falsificados e garantia não foi honrada dentro do prazo,Negativo,0
+"Compra tranquila, sem maiores problemas ou surpresas durante o processo",Neutro,1
+"Compra realizada com segurança, produto perfeito e entrega exemplar",Positivo,2
+Produto com manual somente em inglês e reclamação ignorada no Reclame Aqui,Negativo,0
+"Atendimento razoável, resolveu meu problema mas demorou mais que esperado",Neutro,1
+"Produto e serviço impecáveis, superando em muito as expectativas",Positivo,2
+"O produto funciona, mas as instruções de uso poderiam ser mais claras",Neutro,1
+"Pedido processado normalmente, produto dentro das especificações básicas",Neutro,1
+"Produto enviado sem embalagem adequada, propaganda enganosa",Negativo,0
+Prazo completamente descumprido sem aviso e assistência técnica sem peças de reposição,Negativo,0
+"Atendimento dentro do padrão normal, sem nada de especial a destacar",Neutro,1
+Entrega atrasou mais de 20 dias e reclamação ignorada no Reclame Aqui,Negativo,0
+"Produto muito barulhento em operação, péssima experiência de compra",Negativo,0
+"Produto com data de validade vencida, total desperdício de dinheiro",Negativo,0
+"Produto recusado na entrega por estar danificado, fui completamente enganado",Negativo,0
+Compra realizada com total segurança e transparência no processo,Positivo,2
+"Atendimento respondeu em tempo hábil, solução parcialmente satisfatória",Neutro,1
+"Desconto prometido não foi aplicado, propaganda enganosa",Negativo,0
+Produto com acabamento impecável e material de altíssima durabilidade,Positivo,2
+"Qualidade aceitável para o preço pago, atende ao básico necessário",Neutro,1
+"Produto simples que cumpre o que promete, sem grandes diferenciais",Neutro,1
+Produto veio sem os acessórios prometidos e assistência técnica sem peças de reposição,Negativo,0
+"Atendimento normal, questão resolvida no prazo informado pelo suporte",Neutro,1
+"Melhor compra que realizei esse ano, produto simplesmente fantástico",Positivo,2
+Produto veio com defeito de fábrica e nunca consegui falar com um atendente,Negativo,0
+Fiquei impressionado com a qualidade do produto e rapidez no envio,Positivo,2
+"Frete expresso cobrado mas entrega atrasou, propaganda enganosa",Negativo,0
+Frete um pouco acima da média do mercado mas a entrega foi pontual,Neutro,1
+Produto chegou antes do prazo e superou as expectativas em acabamento,Positivo,2
+Loja online com melhor experiência de compra que já tive,Positivo,2
+Frete um pouco acima da média do mercado mas a entrega foi pontual,Neutro,1
+"Produto fantástico, minha família inteira adorou o presente escolhido",Positivo,2
+"Site com informações básicas, poderia ter mais detalhes técnicos",Neutro,1
+Fiquei impressionado com a qualidade do produto e rapidez no envio,Positivo,2
+Produto muito barulhento em operação e chamado aberto sem nenhuma atualização,Negativo,0
+Produto com peças faltando na embalagem e garantia não foi honrada dentro do prazo,Negativo,0
+"Compra tranquila, sem maiores problemas ou surpresas durante o processo",Neutro,1
+Fiquei impressionado com a qualidade do produto e rapidez no envio,Positivo,2
+"Compra tranquila, sem maiores problemas ou surpresas durante o processo",Neutro,1
+"Atendimento normal, questão resolvida no prazo informado pelo suporte",Neutro,1
+"Empresa demora semanas para estornar pagamento, péssima experiência de compra",Negativo,0
+"Produto e serviço impecáveis, superando em muito as expectativas",Positivo,2
+"Produto não funciona conforme anunciado, experiência terrível do início ao fim",Negativo,0
+"Produto muito barulhento em operação, nunca mais compro nessa empresa",Negativo,0
+Produto chegou sem lacre de segurança e garantia não foi honrada dentro do prazo,Negativo,0
+"Compra online padrão, igual a qualquer outra experiência do mercado",Neutro,1
+"Estou muito satisfeito com a compra, recomendo essa loja a todos",Positivo,2
+"Cobrado duas vezes sem estorno, não recomendo essa loja para ninguém",Negativo,0
+Loja online com melhor experiência de compra que já tive,Positivo,2
+Loja online com melhor experiência de compra que já tive,Positivo,2
+"Suporte resolveu meu problema em menos de 5 minutos, serviço impecável",Positivo,2
+Produto com componentes falsificados e suporte prometeu retorno e sumiu,Negativo,0
+Produto com componentes falsificados e robô de atendimento não resolve nada,Negativo,0
+"Experiência de compra comum, nem muito boa nem muito ruim",Neutro,1
+Produto com acabamento impecável e material de altíssima durabilidade,Positivo,2
+"Entrega expressa, produto bem embalado e funcionando perfeitamente",Positivo,2
+"Produto fantástico, minha família inteira adorou o presente escolhido",Positivo,2
+"Produto adequado para o uso básico diário, sem reclamações específicas",Neutro,1
+"Qualidade aceitável para o preço pago, atende ao básico necessário",Neutro,1
+"Experiência fantástica de ponta a ponta, voltarei a comprar sempre",Positivo,2
+Produto razoável com custo-benefício aceitável para a categoria,Neutro,1
+Experiência de compra muito positiva e tranquila do início ao fim,Positivo,2
+"Produto com componentes falsificados, não recomendo essa loja para ninguém",Negativo,0
+"Frete expresso cobrado mas entrega atrasou, propaganda enganosa",Negativo,0
+"Cancelamento não processado continuei sendo cobrado, descaso total com o consumidor",Negativo,0
+"Produto com manual somente em inglês, empresa que não respeita o cliente",Negativo,0
+"Qualidade incrível pelo preço praticado, recomendo a todos sem hesitação",Positivo,2
+Empresa confiável e transparente em todas as etapas do processo,Positivo,2
+"Entregador tentou uma vez e não avisou, propaganda enganosa",Negativo,0
+Desconto prometido não foi aplicado e garantia não foi honrada dentro do prazo,Negativo,0
+Produto com qualidade muito inferior ao anunciado e garantia não foi honrada dentro do prazo,Negativo,0
+Produto conforme descrito com qualidade bem superior ao esperado,Positivo,2
+"Superou tudo que eu esperava, produto de qualidade excepcional",Positivo,2
+Produto superou expectativas em durabilidade e acabamento final,Positivo,2
+Fiquei impressionado com a qualidade do produto e rapidez no envio,Positivo,2
+"Produto veio sem os acessórios prometidos, fui completamente enganado",Negativo,0
+"Estou muito satisfeito com a compra, recomendo essa loja a todos",Positivo,2
+"Produto chegou sem lacre de segurança, não recomendo essa loja para ninguém",Negativo,0
+"Produto simples que cumpre o que promete, sem grandes diferenciais",Neutro,1
+"Atendimento razoável, resolveu meu problema mas demorou mais que esperado",Neutro,1
+Produto conforme descrito com qualidade bem superior ao esperado,Positivo,2
+"Experiência de compra comum, nem muito boa nem muito ruim",Neutro,1
+Produto de qualidade excepcional que vale muito mais do que o preço,Positivo,2
+Empresa que valoriza genuinamente o cliente acima de tudo,Positivo,2
+"Produto e serviço impecáveis, superando em muito as expectativas",Positivo,2
+Produto com dimensões diferentes do especificado e email sem resposta há mais de uma semana,Negativo,0
+"Produto adequado para o uso básico diário, sem reclamações específicas",Neutro,1
+"Atendimento rápido, eficiente e resolutivo em menos de dez minutos",Positivo,2
+"Frete expresso cobrado mas entrega atrasou, nunca mais compro nessa empresa",Negativo,0
+"Produto chegou correto, embalagem simples mas funciona como esperado",Neutro,1
+"Produto sem certificação obrigatória, total desperdício de dinheiro",Negativo,0
+Produto com sistema desatualizado sem suporte e devolução negada sem justificativa,Negativo,0
+"Produto com dimensões diferentes do especificado, experiência terrível do início ao fim",Negativo,0
+Produto com data de validade vencida e atendimento horrível e sem resolução,Negativo,0
+Produto superou expectativas em durabilidade e acabamento final,Positivo,2
+"Produto fantástico, minha família inteira adorou o presente escolhido",Positivo,2
+"Experiência de compra comum, nem muito boa nem muito ruim",Neutro,1
+"Atendimento rápido, eficiente e resolutivo em menos de dez minutos",Positivo,2
+Produto quebrou na primeira semana e reclamação ignorada no Reclame Aqui,Negativo,0
+"Atendimento normal, questão resolvida no prazo informado pelo suporte",Neutro,1
+"Produto ok, manual poderia ser mais detalhado e fácil de entender",Neutro,1
+"Compra fácil, rápida e segura com excelente experiência do usuário",Positivo,2
+"Compra fácil no site, entrega rápida e produto de altíssima qualidade",Positivo,2
+Produto com componentes falsificados e devolução negada sem justificativa,Negativo,0
+"Superou tudo que eu esperava, produto de qualidade excepcional",Positivo,2
+Produto de altíssima qualidade com embalagem premium muito cuidadosa,Positivo,2
+"Produto frágil que quebrou no desempacotamento, tive que acionar o Procon",Negativo,0
+Produto com acabamento impecável e material de altíssima durabilidade,Positivo,2
+Loja online com melhor experiência de compra que já tive,Positivo,2
+Produto com manual somente em inglês e fiquei mais de uma hora esperando no telefone,Negativo,0
+Produto muito barulhento em operação e reclamação ignorada no Reclame Aqui,Negativo,0
+"Produto com dimensões diferentes do especificado, tive que acionar o Procon",Negativo,0
+"Atendimento dentro do padrão normal, sem nada de especial a destacar",Neutro,1
+"Produto frágil que quebrou no desempacotamento, total desperdício de dinheiro",Negativo,0
+"Entrega dentro do esperado, produto chegou em bom estado de conservação",Neutro,1
+Produto superou expectativas em durabilidade e acabamento final,Positivo,2
+Produto não funciona conforme anunciado e fiquei mais de uma hora esperando no telefone,Negativo,0
+"Embalagem violada no momento da entrega, total desperdício de dinheiro",Negativo,0
+"Produto adequado para o uso básico diário, sem reclamações específicas",Neutro,1
+"Atendimento rápido, atencioso e muito eficiente, parabéns à equipe",Positivo,2
+"Equipe de vendas bem treinada, atenciosa e extremamente prestativa",Positivo,2
+"Atendimento dentro do padrão normal, sem nada de especial a destacar",Neutro,1
+"Produto entregue conforme pedido, nada a elogiar nem reclamar",Neutro,1
+"Experiência de compra comum, nem muito boa nem muito ruim",Neutro,1
+"Produto extraviado e empresa não resolve, descaso total com o consumidor",Negativo,0
+Produto sem certificação obrigatória e devolução negada sem justificativa,Negativo,0
+"Compra tranquila, sem maiores problemas ou surpresas durante o processo",Neutro,1
+Prazo completamente descumprido sem aviso e devolução negada sem justificativa,Negativo,0
+"O produto funciona, mas as instruções de uso poderiam ser mais claras",Neutro,1
+Suporte respondeu em prazo aceitável e resolveu parcialmente o problema,Neutro,1
+Produto não funciona conforme anunciado e chamado aberto sem nenhuma atualização,Negativo,0
+"Troca realizada sem dificuldades, processo padrão de qualquer loja",Neutro,1
+"Atendimento razoável, resolveu meu problema mas demorou mais que esperado",Neutro,1
+Cancelamento não processado continuei sendo cobrado e suporte técnico totalmente despreparado,Negativo,0
+"Produto com data de validade vencida, propaganda enganosa",Negativo,0
+"Troca realizada sem dificuldades, processo padrão de qualquer loja",Neutro,1
+"Produto com qualidade muito inferior ao anunciado, nunca mais compro nessa empresa",Negativo,0
+"Site funcionou bem, pagamento processado sem dificuldades no checkout",Neutro,1
+Produto muito barulhento em operação e atendimento horrível e sem resolução,Negativo,0
+"Desconto prometido não foi aplicado, nunca mais compro nessa empresa",Negativo,0
+"Serviço de pós-venda excelente, empresa se preocupa com a satisfação",Positivo,2
+"Produto enviado sem embalagem adequada, propaganda enganosa",Negativo,0
+Atendimento cordial mas sem grande capacidade de resolver problemas,Neutro,1
+"Atendimento ok, não foi excepcional mas resolveu o que era necessário",Neutro,1
+Produto com qualidade razoável que atende à necessidade básica,Neutro,1
+Produto com qualidade muito inferior ao anunciado e devolução negada sem justificativa,Negativo,0
+"Compra realizada sem grandes problemas, produto conforme o anunciado",Neutro,1
+"O produto funciona, mas as instruções de uso poderiam ser mais claras",Neutro,1
+"Atendimento respondeu em tempo hábil, solução parcialmente satisfatória",Neutro,1
+"Entrega expressa, produto bem embalado e funcionando perfeitamente",Positivo,2
+Atendimento humanizado que faz toda a diferença na experiência,Positivo,2
+"Entregador tentou uma vez e não avisou, tive que acionar o Procon",Negativo,0
+"Produto sem certificação obrigatória, descaso total com o consumidor",Negativo,0
+"Produto mediano, esperava um pouco mais pelo preço que foi cobrado",Neutro,1
+"Produto conforme descrito, entrega no prazo estipulado pelo vendedor",Neutro,1
+"Atendimento rápido, eficiente e resolutivo em menos de dez minutos",Positivo,2
+"Produto mediano, esperava um pouco mais pelo preço que foi cobrado",Neutro,1
+Resposta do suporte demorou dois dias mas finalmente resolveu a questão,Neutro,1
