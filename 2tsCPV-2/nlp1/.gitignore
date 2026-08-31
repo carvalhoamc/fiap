@@ -1,0 +1,16 @@
+# Acervo de entrada e artefatos gerados não vão para o repositório: os
+# primeiros porque podem conter dados sensíveis ou de terceiros, os segundos
+# porque são reproduzíveis a partir do código + config.py.
+#
+# Cuidado especial em PLN: diferente de um dataset de imagens públicas, um
+# acervo de documentos costuma vir de dentro da organização. Comitar
+# data/brutos/ por acidente é uma das formas mais comuns de vazar contrato,
+# folha de pagamento e dado pessoal para um repositório.
+data/
+outputs/
+
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+.env

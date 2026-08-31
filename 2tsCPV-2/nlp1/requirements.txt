@@ -1,0 +1,22 @@
+# Leitores de formato — o núcleo da ETAPA 1.
+# Todos são Python puro: instalam em segundos e não precisam de compilador.
+pypdf>=5.0            # extração de texto de PDF
+python-docx>=1.1      # leitura de .docx (parágrafos e tabelas)
+openpyxl>=3.1         # leitura de .xlsx / .xlsm
+
+# Gráficos do relatório (ETAPA 6). Opcional: sem ele o pipeline roda igual,
+# apenas pula os gráficos com um aviso.
+matplotlib>=3.8
+
+# Etapa de deploy (instalar só quando chegar na ETAPA 7)
+fastapi>=0.110
+uvicorn[standard]>=0.29
+python-multipart>=0.0.9
+pydantic>=2.0
+
+# NADA de spaCy, NLTK, pandas ou transformers. Este pipeline é de AQUISIÇÃO e
+# FILTRAGEM: tudo que ele faz cabe na biblioteca padrão mais três leitores de
+# arquivo. Trazer uma dependência de 500 MB para contar stopwords é o tipo de
+# escolha que transforma um projeto simples em um projeto que ninguém consegue
+# instalar. Quando você precisar de tokenização linguística, lematização ou
+# reconhecimento de entidades — aí sim — o spaCy entra, na aula seguinte.
