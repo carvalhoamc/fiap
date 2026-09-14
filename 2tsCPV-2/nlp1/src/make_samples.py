@@ -23,8 +23,8 @@ propósito todas as patologias que o pipeline precisa saber tratar:
     ocr_ruim.txt                     ruído de OCR (símbolos no lugar de letras)
     abstract.txt                     inglês (idioma fora do alvo)
     procedimento_operacional.docx    parágrafos + TABELA (que o ingênuo perde)
-    avaliacoes_clientes.xlsx         aba textual + aba puramente numérica
-    chamados.csv                     separador ';' e cp1252
+    avaliacoes_clientes.xlsx         aba textual + aba numérica; RÓTULO em coluna
+    chamados.csv                     separador ';', cp1252; RÓTULO em coluna
 
 O gerador de PDF é escrito à mão, em ~60 linhas, sem nenhuma biblioteca. Além
 de evitar mais uma dependência, ele deixa visível o motivo de o PDF ser um
@@ -391,30 +391,33 @@ TABELA_DOCX = [
     ["Falha de pintura", "ate 3 mm de diametro", "Gabarito visual G-07", "Menor"],
 ]
 
-# Planilha: a coluna "Comentario" é texto natural; as demais são metadados.
+# Planilha: a coluna "Comentario" é texto natural; as demais viram METADADOS
+# do trecho. Repare na coluna "Sentimento": ela é o RÓTULO, o `y` de um
+# classificador. É ela que prova que a aquisição preserva o que não é texto —
+# sem isso, o corpus serviria só para treino não supervisionado.
 AVALIACOES = [
-    ["ID", "Data", "Nota", "Canal", "Comentario"],
-    [1001, "2024-03-04", 2, "telefone",
+    ["ID", "Data", "Nota", "Canal", "Sentimento", "Comentario"],
+    [1001, "2024-03-04", 2, "telefone", "negativo",
      "A peca chegou com uma marca de oxidacao bem visivel na aresta lateral, e "
      "o lote inteiro precisou ser conferido de novo aqui na nossa recepcao. "
      "Perdemos quase um dia de producao por causa dessa conferencia extra."],
-    [1002, "2024-03-05", 5, "email",
+    [1002, "2024-03-05", 5, "email", "positivo",
      "Atendimento rapido e prazo cumprido conforme o combinado no pedido. A "
      "documentacao veio completa e o certificado de qualidade estava anexado, "
      "o que facilitou muito a liberacao pela nossa area de recebimento."],
-    [1003, "2024-03-06", 3, "formulario",
+    [1003, "2024-03-06", 3, "formulario", "neutro",
      "O produto atende ao especificado, mas a embalagem chegou amassada em "
      "dois volumes e uma das etiquetas de identificacao estava ilegivel. "
      "Sugiro revisar o processo de paletizacao antes do envio."],
-    [1004, "2024-03-08", 1, "telefone",
+    [1004, "2024-03-08", 1, "telefone", "negativo",
      "Recebemos pecas com rebarba acima do limite acordado em contrato e sem o "
      "relatorio de inspecao que combinamos na ultima reuniao tecnica. "
      "Precisamos de um posicionamento formal sobre esse desvio."],
-    [1005, "2024-03-11", 4, "email",
+    [1005, "2024-03-11", 4, "email", "positivo",
      "De modo geral o fornecimento tem sido regular e a qualidade melhorou "
      "bastante em relacao ao trimestre passado. O unico ponto de atencao "
      "continua sendo o prazo de resposta as solicitacoes de assistencia."],
-    [1006, "2024-03-12", 2, "formulario",
+    [1006, "2024-03-12", 2, "formulario", "negativo",
      "A ultima remessa apresentou variacao de tonalidade na pintura entre as "
      "pecas do mesmo lote, o que fica evidente quando elas sao montadas lado a "
      "lado no conjunto final. Isso gerou reclamacao do nosso cliente."],

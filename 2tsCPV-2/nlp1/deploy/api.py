@@ -171,6 +171,10 @@ async def extrair(arquivo: UploadFile = File(...), mascarar_pii: bool = False):
             "motivo": motivo,
             "explicacao": MOTIVOS.get(motivo) if motivo else None,
             "motivos_secundarios": motivos[1:],
+            # Colunas não textuais da linha de origem (rótulo, nota, data...).
+            # Vazio para pdf/txt/docx. Quem consome a API para montar conjunto
+            # de treino precisa disto — é o `y`.
+            "metadados": trecho.metadados,
             "n_caracteres": len(trecho.texto),
             "n_palavras": metricas["n_palavras"],
             "metricas": {k: (round(v, 4) if isinstance(v, float) else v)

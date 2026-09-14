@@ -201,6 +201,13 @@ def executar(entrada: Path = BRUTOS_DIR, cfg=CFG, mascarar: bool | None = None,
                 "bloco": i,
                 "texto": texto,
                 "n_caracteres": len(texto),
+                # Os metadados são replicados em TODOS os blocos do documento.
+                # É redundante de propósito: cada bloco precisa ser utilizável
+                # sozinho, sem uma junção de volta ao documento de origem. Se o
+                # rótulo ficasse só no documento, treinar sobre blocos exigiria
+                # um `join` — e a primeira pessoa a esquecer esse join treina o
+                # modelo com os rótulos desalinhados, sem perceber.
+                "metadados": documento.get("metadados", {}),
             })
 
     # --- Gravação ---------------------------------------------------------

@@ -42,7 +42,8 @@ Uso:
 import argparse
 import csv
 import io
-from dataclasses import dataclass, asdict
+import datetime as _datetime
+from dataclasses import dataclass, asdict, field
 from pathlib import Path
 
 from config import CFG, ROOT, BRUTOS_DIR
@@ -76,6 +77,20 @@ class Trecho:
     localizador: str      # "página 3", "aba Vendas · linha 12", "tabela 1"
     ordem: int            # posição dentro do arquivo, para reconstruir a ordem
     codificacao: str = ""  # só faz sentido para formatos de texto puro
+
+    # Colunas NÃO textuais da linha de origem (planilha e CSV): rótulo, nota,
+    # data, canal, categoria. Vazio para pdf/txt/docx, que não têm colunas.
+    #
+    # Por que isto existe: uma versão anterior simplesmente DESCARTAVA essas
+    # colunas, porque a etapa se chama "aquisição de corpus" e corpus é texto.
+    # Só que a coluna descartada costuma ser exatamente o RÓTULO — o `y` de um
+    # classificador. Passar um CSV de sentimento por aqui devolvia o texto e
+    # perdia a resposta, silenciosamente.
+    #
+    # A regra que ficou: **a aquisição não decide o que é útil a jusante.**
+    # Ela extrai, preserva a procedência e entrega tudo o que encontrou. Quem
+    # descarta é a etapa que sabe para que serve — nunca a que só lê o arquivo.
+    metadados: dict = field(default_factory=dict)
 
     def to_dict(self) -> dict:
         d = asdict(self)
@@ -274,6 +289,27 @@ def ler_docx(caminho: Path, cfg=CFG) -> list[Trecho]:
 # ---------------------------------------------------------------------------
 # PLANILHAS — o problema é decidir o que é texto
 # ---------------------------------------------------------------------------
+def _serializavel(valor):
+    """Converte um valor de célula para algo que o `json.dumps` aceite.
+
+    Armadilha concreta: o openpyxl devolve `datetime.datetime` para células
+    formatadas como data, e `json.dumps` levanta `TypeError: Object of type
+    datetime is not JSON serializable`. Como os metadados só passaram a ser
+    gravados agora, esse erro apareceria na primeira planilha com uma coluna
+    de data — ou seja, quase todas.
+
+    Datas viram ISO 8601 (`2024-03-11`), que ordena corretamente como texto e
+    é lido de volta por qualquer ferramenta. O resto vira `str` como último
+    recurso: melhor um valor em texto do que o pipeline inteiro parando na
+    hora de gravar.
+    """
+    if valor is None or isinstance(valor, (str, int, float, bool)):
+        return valor
+    if isinstance(valor, (_datetime.datetime, _datetime.date, _datetime.time)):
+        return valor.isoformat()
+    return str(valor)
+
+
 def _e_numero(valor) -> bool:
     if isinstance(valor, bool):
         return True
@@ -335,6 +371,13 @@ def _linhas_para_trechos(linhas: list[list], caminho: Path, formato: str,
     e os nomes das colunas são preservados como rótulo no texto ("Comentário:
     ..."). Esse rótulo é contexto barato e valioso: sem ele, o modelo recebe
     uma frase solta sem saber o que ela responde.
+
+    As colunas que NÃO viraram texto não são jogadas fora: vão para
+    `Trecho.metadados`, com o nome do cabeçalho como chave. É isso que permite
+    usar o mesmo corpus para treino supervisionado — a coluna "sentimento" de
+    um CSV de reclamações é o `y` do classificador, e ela precisa sobreviver à
+    aquisição para que a filtragem de qualidade possa ser aplicada ANTES do
+    treino, e não depois.
     """
     if not linhas:
         return []
@@ -349,6 +392,17 @@ def _linhas_para_trechos(linhas: list[list], caminho: Path, formato: str,
     if not colunas:
         return []   # aba puramente numérica: nada a extrair (e o relatório dirá)
 
+    n_colunas = max((len(l) for l in corpo), default=0)
+    # Todas as colunas que NÃO viraram texto são metadados. Tipicamente: id,
+    # data, nota, canal, categoria — e o RÓTULO, quando existe.
+    colunas_meta = [c for c in range(n_colunas) if c not in colunas]
+
+    def nome_coluna(c: int) -> str:
+        """Nome da chave de metadado: o cabeçalho, ou `coluna_N` sem ele."""
+        if cabecalho and c < len(cabecalho) and cabecalho[c].strip():
+            return cabecalho[c].strip()
+        return f"coluna_{c}"
+
     trechos = []
     for i, linha in enumerate(corpo, start=2 if cabecalho else 1):
         partes = []
@@ -360,10 +414,19 @@ def _linhas_para_trechos(linhas: list[list], caminho: Path, formato: str,
             partes.append(f"{rotulo}: {valor}" if rotulo else str(valor))
         if not partes:
             continue
+
+        metadados = {}
+        for c in colunas_meta:
+            valor = linha[c] if c < len(linha) else None
+            if valor in (None, ""):
+                continue    # célula vazia não vira chave com valor nulo
+            metadados[nome_coluna(c)] = _serializavel(valor)
+
         localizador = f"aba {aba} · linha {i}" if aba else f"linha {i}"
         trechos.append(Trecho(texto="\n".join(partes), arquivo=_relativo(caminho),
                               formato=formato, localizador=localizador,
-                              ordem=ordem_inicial + len(trechos)))
+                              ordem=ordem_inicial + len(trechos),
+                              metadados=metadados))
     return trechos
 
 
